@@ -11,15 +11,21 @@ ROOT=Path(__file__).resolve().parent; CONFIG_PATH=ROOT/'config.json'; OUTPUT_DIR
 UA='job-search-agent/1.0 (personal job search)'; TIMEOUT=25
 @dataclass
 class Job:
-    source:str; title:str; company:str; location:str; remote:bool; url:str; description:str=''; published_at:str=''; score:int=0; verdict:str=''; reasons:str=''; first_seen:str=''
+    source:str; title:str; company:str; location:str; remote:bool; url:str; description:str=''; published_at:object=''; score:int=0; verdict:str=''; reasons:str=''; first_seen:str=''
 def clean_html(value):
     if not value:return ''
     return re.sub(r'\s+',' ',BeautifulSoup(html.unescape(value),'html.parser').get_text(' ',strip=True)).strip()
-def norm(value): return re.sub(r'\s+',' ',(value or '').lower()).strip()
+def norm(value): return re.sub(r'\s+',' ',str(value or '').lower()).strip()
 def stable_id(job): return hashlib.sha256(f'{norm(job.company)}|{norm(job.title)}|{job.url}'.encode()).hexdigest()[:20]
 def parse_date(value):
-    if not value:return None
-    value=value.strip().replace('Z','+00:00')
+    if value is None or value == '': return None
+    if isinstance(value,(int,float)):
+        try:return datetime.fromtimestamp(value,tz=timezone.utc)
+        except (ValueError,OSError,OverflowError):return None
+    value=str(value).strip().replace('Z','+00:00')
+    if value.isdigit():
+        try:return datetime.fromtimestamp(int(value),tz=timezone.utc)
+        except (ValueError,OSError,OverflowError):pass
     try:
         dt=datetime.fromisoformat(value); return (dt if dt.tzinfo else dt.replace(tzinfo=timezone.utc)).astimezone(timezone.utc)
     except ValueError:return None
@@ -83,7 +89,7 @@ def main():
         if jid not in seen: seen[jid]={'first_seen':now,'url':j.url,'title':j.title,'company':j.company}
         j.first_seen=seen[jid]['first_seen']; evaluate(j,cfg)
         if j.score>=cfg['search']['minimum_score']: matched.append(j)
-    matched.sort(key=lambda j:(j.score,j.published_at),reverse=True); matched=matched[:cfg['output']['top_n']]; save_seen(seen); write_outputs(matched,cfg); print(f'Fetched {len(all_jobs)} jobs; {len(unique)} unique; {len(matched)} matched.')
+    matched.sort(key=lambda j:(j.score,parse_date(j.published_at) or datetime.min.replace(tzinfo=timezone.utc)),reverse=True); matched=matched[:cfg['output']['top_n']]; save_seen(seen); write_outputs(matched,cfg); print(f'Fetched {len(all_jobs)} jobs; {len(unique)} unique; {len(matched)} matched.')
     for j in matched[:10]: print(f'{j.score:>3} {j.verdict:<6} {j.title} — {j.company} — {j.location}')
     return 0
 if __name__=='__main__': raise SystemExit(main())
