@@ -1,1 +1,3590 @@
-{}
+{
+  "d18811f7fa5fb90d5f18": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/lemon-markets/ict-outsourcing-manager-berlin-192667",
+    "title": "ICT Outsourcing Manager",
+    "company": "Lemon Markets"
+  },
+  "ce3154fd1334682435f4": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/bettermile/senior-backend-engineer-kotlin-spring-aws-better-places-berlin-241709",
+    "title": "Senior Backend Engineer - (Kotlin, Spring, AWS) - Better Places (d/f/m)",
+    "company": "Bettermile"
+  },
+  "31963521c26195cd059a": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-design-director-39625",
+    "title": "Design Director",
+    "company": "Clera"
+  },
+  "1b79bd9f85f683f76e26": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-community-operations-lead-57643",
+    "title": "Community Operations Lead",
+    "company": "Clera"
+  },
+  "90c126e44a74ad74382a": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/forward-deployed-engineer-dach-munich-307808",
+    "title": "Forward Deployed Engineer, DACH",
+    "company": "Clera"
+  },
+  "4679146cee50d515b119": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/enterprise-ai-transformation-lead-dach-munich-249203",
+    "title": "Enterprise AI Transformation Lead, DACH",
+    "company": "Clera"
+  },
+  "6471b0fe578b5b524dd5": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-founding-scientist-co-founder-56593",
+    "title": "Founding Scientist / Co-Founder",
+    "company": "Clera"
+  },
+  "0e4646a159517eaeedae": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/visiting-finance-analyst-berlin-88065",
+    "title": "Visiting Finance Analyst",
+    "company": "Clera"
+  },
+  "8b42977c902a1ed3e855": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/enterprise-account-manager-berlin-94946",
+    "title": "Enterprise Account Manager",
+    "company": "Clera"
+  },
+  "b8c1654f65e238b3c121": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/customer-success-manager-munich-482665",
+    "title": "Customer Success Manager",
+    "company": "Clera"
+  },
+  "3aa4f0883cb4e79cb577": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/product-engineer-full-stack-berlin-377666",
+    "title": "Product Engineer (Full-Stack)",
+    "company": "Clera"
+  },
+  "129fe725dfef7c11be39": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/senior-account-executive-berlin-242864",
+    "title": "Senior Account Executive",
+    "company": "Clera"
+  },
+  "883f1b56154767237deb": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/platform-engineer-berlin-322622",
+    "title": "Platform Engineer",
+    "company": "Clera"
+  },
+  "7e52834d01e48c41e8bb": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/product-engineer-berlin-424898",
+    "title": "Product Engineer",
+    "company": "Clera"
+  },
+  "0cd7d695be77ccee8dbf": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-forward-deployment-engineer-250362",
+    "title": "Forward Deployment Engineer",
+    "company": "Clera"
+  },
+  "80334d1a2014760f9195": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/engineering-intern-berlin-270968",
+    "title": "Engineering Intern",
+    "company": "Clera"
+  },
+  "8a28ed4457994a5226dc": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/founding-engineer-product-process-berlin-376749",
+    "title": "Founding Engineer – Product & Process",
+    "company": "Clera"
+  },
+  "69387ea8761b05991fd1": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/founders-associate-chief-of-staff-munich-281792",
+    "title": "Founders' Associate / Chief of Staff",
+    "company": "Clera"
+  },
+  "4e67212b29b3de875134": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/senior-staff-product-designer-munich-153805",
+    "title": "Senior / Staff Product Designer",
+    "company": "Clera"
+  },
+  "344f4b0baa07e1308c09": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-founding-product-engineer-42197",
+    "title": "Founding Product Engineer",
+    "company": "Clera"
+  },
+  "b44075c825db551752a7": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/team-lead-account-executives-munich-33026",
+    "title": "Team Lead, Account Executives",
+    "company": "Clera"
+  },
+  "d5992b3adc622143d08b": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/founding-engineer-munich-124614",
+    "title": "Founding Engineer",
+    "company": "Clera"
+  },
+  "180224c059913bd75893": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-growth-marketing-lead-248968",
+    "title": "Growth Marketing Lead",
+    "company": "Clera"
+  },
+  "48e1775715c6e97ee851": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/b2b-account-executive-berlin-230692",
+    "title": "B2B Account Executive",
+    "company": "Clera"
+  },
+  "018ffbd1c32d6a7f0a5f": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/founders-associate-berlin-56457",
+    "title": "Founders Associate",
+    "company": "Clera"
+  },
+  "83e9f210ca79c1765f52": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/werkstudent-content-brand-berlin-218340",
+    "title": "Werkstudent Content & Brand (m/w/d)",
+    "company": "Clera"
+  },
+  "ef88018c273126d4755f": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-head-of-gtm-91136",
+    "title": "Head of GTM",
+    "company": "Clera"
+  },
+  "a90fd7870141baaa643c": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-founding-cloud-infrastructure-engineer-257151",
+    "title": "Founding Cloud Infrastructure Engineer",
+    "company": "Clera"
+  },
+  "eae9b41ad9adf7ae870c": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/brand-designer-berlin-150660",
+    "title": "Brand Designer",
+    "company": "Clera"
+  },
+  "86e257b4ff57a3b0449b": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/partnership-manager-berlin-290450",
+    "title": "Partnership Manager",
+    "company": "Clera"
+  },
+  "f71d6f9022cd9ed4ef84": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/founders-associate-berlin-59591",
+    "title": "Founder's Associate",
+    "company": "Clera"
+  },
+  "ea6a8d5b8d4d84a157cd": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/senior-account-executive-munich-74101",
+    "title": "Senior Account Executive",
+    "company": "Clera"
+  },
+  "71d0eb0682a403d2ec00": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/product-marketer-berlin-43525",
+    "title": "Product Marketer",
+    "company": "Clera"
+  },
+  "0198fa890111ce469d5b": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/business-development-manager-berlin-6150",
+    "title": "Business Development Manager",
+    "company": "Clera"
+  },
+  "e07054def51047640bc7": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/founding-engineer-munich-481984",
+    "title": "Founding Engineer",
+    "company": "Clera"
+  },
+  "548c1ac1ab935d145cdc": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/customer-success-manager-munich-142798",
+    "title": "Customer Success Manager",
+    "company": "Clera"
+  },
+  "f0e202741e6f2500a31d": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/ai-engineer-model-training-deployment-munich-465048",
+    "title": "AI Engineer – Model Training & Deployment",
+    "company": "Clera"
+  },
+  "12b1b88bca65cb51b6b5": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/product-engineer-full-stack-agentic-ai-berlin-329659",
+    "title": "Product Engineer (Full-Stack / Agentic AI)",
+    "company": "Clera"
+  },
+  "9e6fec3c7c3ab0bf3495": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/head-of-ai-research-berlin-225166",
+    "title": "Head of AI Research",
+    "company": "Clera"
+  },
+  "5f09488642539d738644": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/member-of-commercial-staff-berlin-383561",
+    "title": "Member of Commercial Staff",
+    "company": "Clera"
+  },
+  "3f00516b7fb2adf3de34": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/founding-deployment-strategist-munich-300665",
+    "title": "Founding Deployment Strategist",
+    "company": "Clera"
+  },
+  "b8797fd1011a5f9a98ed": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/enterprise-account-executive-munich-77816",
+    "title": "Enterprise Account Executive",
+    "company": "Clera"
+  },
+  "10df31e9ea4457c1325c": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-staff-engineer-founding-131517",
+    "title": "Staff Engineer (Founding)",
+    "company": "Clera"
+  },
+  "611f69675c660c823468": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/member-of-technical-staff-product-ai-agents-munich-452914",
+    "title": "Member of Technical Staff, Product (AI Agents)",
+    "company": "Clera"
+  },
+  "bcae0693856666276121": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/strategy-operations-product-growth-munich-444943",
+    "title": "Strategy & Operations – Product Growth",
+    "company": "Clera"
+  },
+  "e25b895645337c1dab55": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/full-stack-software-engineer-berlin-313447",
+    "title": "Full-Stack Software Engineer",
+    "company": "Clera"
+  },
+  "ed1902ddb82d2ada632b": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/customer-support-engineer-munich-151749",
+    "title": "Customer Support Engineer",
+    "company": "Clera"
+  },
+  "76f180b51cd62b6dce17": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/founders-associate-gtm-sales-munich-292054",
+    "title": "Founder's Associate (GTM/Sales)",
+    "company": "Clera"
+  },
+  "647b1bbcbe53f7ca1c64": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/senior-business-development-representative-munich-363101",
+    "title": "Senior Business Development Representative",
+    "company": "Clera"
+  },
+  "28f4188ed5b3016a856a": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/head-of-product-design-munich-341457",
+    "title": "Head of Product Design",
+    "company": "Clera"
+  },
+  "a42b2e6bb56ae34f322a": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/founding-people-talent-lead-munich-296591",
+    "title": "Founding People & Talent Lead",
+    "company": "Clera"
+  },
+  "3d44a4bb04cabd77bae4": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/founding-engineer-berlin-45168",
+    "title": "Founding Engineer",
+    "company": "Clera"
+  },
+  "e8a32eda571d8dfd9f01": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/sales-intern-munich-139411",
+    "title": "Sales Intern",
+    "company": "Clera"
+  },
+  "4106828864cb0eb1e0c9": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/founding-engineer-backend-platform-berlin-261085",
+    "title": "Founding Engineer – Backend & Platform",
+    "company": "Clera"
+  },
+  "3591a1b97821575010b0": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/software-engineer-infrastructure-berlin-354156",
+    "title": "Software Engineer, Infrastructure",
+    "company": "Clera"
+  },
+  "2ddafcf1ffa15a77b441": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/culture-and-community-manager-berlin-47554",
+    "title": "Culture and Community Manager",
+    "company": "Clera"
+  },
+  "d2f9bf16e7739840f37a": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/revenue-operations-manager-munich-431527",
+    "title": "Revenue Operations Manager",
+    "company": "Clera"
+  },
+  "4463bc72a2a3593821a3": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-founding-marketer-growth-gtm-443190",
+    "title": "Founding Marketer (Growth & GTM)",
+    "company": "Clera"
+  },
+  "c87e6b4db6804dc5a081": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/senior-full-stack-engineer-munich-436127",
+    "title": "Senior Full Stack Engineer",
+    "company": "Clera"
+  },
+  "f528a15067a8d6223568": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/full-stack-engineer-munich-375831",
+    "title": "Full Stack Engineer",
+    "company": "Clera"
+  },
+  "7b7bffbf7043fddb2a5c": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/ai-backend-engineer-munich-89077",
+    "title": "AI & Backend Engineer",
+    "company": "Clera"
+  },
+  "955ddf76b0ddc7e24041": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/autonomous-teaming/senior-robotics-software-engineer-counter-uav-systems-generalist-munich-deu-395681",
+    "title": "Senior Robotics Software Engineer Counter UAV Systems - Generalist (m/w/d)",
+    "company": "autonomous-teaming"
+  },
+  "7644295f1ca4041a2a49": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/autonomous-teaming/senior-robotics-software-engineer-generalist-munich-deu-446578",
+    "title": "Senior Robotics Software Engineer - Generalist (m/w/d)",
+    "company": "autonomous-teaming"
+  },
+  "6f2b2406733fa601498c": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/autonomous-teaming/senior-robotics-perception-engineer-multi-object-tracking-munich-deu-5053",
+    "title": "Senior Robotics Perception Engineer – Multi-Object Tracking",
+    "company": "autonomous-teaming"
+  },
+  "6dd8ccce1691f66c9486": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/autonomous-teaming/robotics-software-engineer-counter-uav-systems-generalist-mid-level-munich-deu-71953",
+    "title": "Robotics Software Engineer Counter UAV Systems - Generalist (mid-level)",
+    "company": "autonomous-teaming"
+  },
+  "b5f5891ddea4d9911f31": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/autonomous-teaming/robotics-software-engineer-swarm-systems-munich-deu-255238",
+    "title": "Robotics Software Engineer – Swarm Systems (m/f/d)",
+    "company": "autonomous-teaming"
+  },
+  "d2431ff6fcb95d12f97b": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/autonomous-teaming/robotics-software-engineer-generalist-mid-level-munich-deu-158272",
+    "title": "Robotics Software Engineer - Generalist (mid-level)",
+    "company": "autonomous-teaming"
+  },
+  "da5b48f88e5dcacbba44": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/global-side-gmbh/tech-lead-softwareentwicklung-all-genders-munchen-403109",
+    "title": "Tech Lead Softwareentwicklung (all Genders)",
+    "company": "Global Side Gmbh"
+  },
+  "d910490308b281b64312": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/holidaycheck-group-ag/software-engineer-android-all-genders-munchen-193508",
+    "title": "Software Engineer - Android (all genders)",
+    "company": "HolidayCheck Group AG"
+  },
+  "4da1009232db1414fef6": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/360learning/remote-solutions-engineer-dach-234286",
+    "title": "Solutions Engineer DACH (m/f/d)",
+    "company": "360Learning"
+  },
+  "c09aa4c7803f2b923bda": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/isaraerospace/senior-project-manager-ground-systems-ottobrunn-bavaria-206002",
+    "title": "Senior Project Manager - Ground Systems (m/f/d)",
+    "company": "Isaraerospace"
+  },
+  "8f46c47c0e32b47ad49c": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/isaraerospace/program-director-ottobrunn-bavaria-136123",
+    "title": "Program Director (m/f/d)",
+    "company": "Isaraerospace"
+  },
+  "35adb64928b2977d9204": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/isaraerospace/director-enterprise-it-data-parsdorf-bavaria-351383",
+    "title": "Director Enterprise IT & Data (m/f/d)",
+    "company": "Isaraerospace"
+  },
+  "a4039508bb2a2658d747": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/isaraerospace/c-flight-software-developer-ottobrunn-bavaria-parsdorf-bavaria-374073",
+    "title": "C++ Flight Software Developer (f/m/d)",
+    "company": "Isaraerospace"
+  },
+  "e5bef941c89dac8fe42a": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/limetax/steuerfachangestellte-r-finanz-lohnbuchhaltung-wurzburg-171523",
+    "title": "Steuerfachangestellte/r - Finanz- & Lohnbuchhaltung (m/w/d)",
+    "company": "Limetax"
+  },
+  "67e17fceb0e86b03de84": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/polytalent-gmbh/ot-security-engineer-mit-remote-option-berlin-243096",
+    "title": "OT Security Engineer mit Remote-Option (m/w/d)",
+    "company": "PolyTALENT GmbH"
+  },
+  "24f8c0cb4cdf945c1cf0": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/yoummday-gmbh/werkstudent-strategy-business-development-ai-taskforce-munchen-191250",
+    "title": "Werkstudent (m/w/d) Strategy & Business Development (AI-Taskforce)",
+    "company": "Yoummday GmbH"
+  },
+  "dcfe5112d9bf892381e4": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/yoummday-gmbh/werkstudent-strategy-ai-innovation-munchen-438743",
+    "title": "Werkstudent (m/w/d) Strategy & AI Innovation",
+    "company": "Yoummday GmbH"
+  },
+  "e992e775e49dcec7aaf6": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/yoummday-gmbh/werkstudent-strategic-sales-marketing-munchen-56521",
+    "title": "Werkstudent (m/w/d) Strategic Sales & Marketing",
+    "company": "Yoummday GmbH"
+  },
+  "d6712a11b9de6c54d710": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/yoummday-gmbh/werkstudent-sales-strategic-consulting-munchen-39154",
+    "title": "Werkstudent (m/w/d) Sales & Strategic Consulting",
+    "company": "Yoummday GmbH"
+  },
+  "7921fbd3b8f1cd9c7f2b": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/yoummday-gmbh/platform-devops-engineer-munchen-150063",
+    "title": "Platform & DevOps Engineer (m/w/d)",
+    "company": "Yoummday GmbH"
+  },
+  "c002e00bb4151e615529": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/vispiron-gmbh/senior-software-engineer-setrade-munich-226660",
+    "title": "Senior Software Engineer (m/w/d) - SEtrade",
+    "company": "VISPIRON GmbH"
+  },
+  "805fba0216f5b13b1b7d": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/nao-skalierung-gmbh/ai-automation-systems-engineer-in-ki-first-marketing-agentur-hamburg-124719",
+    "title": "AI Automation & Systems Engineer (m/w/d) in KI-First-Marketing-Agentur",
+    "company": "NAO Skalierung GmbH"
+  },
+  "dc0f0f9c253be629920b": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/doctolib/werkstudent-office-management-workplace-experience-munchen-491939",
+    "title": "Werkstudent Office Management & Workplace Experience (x/f/m) - München",
+    "company": "Doctolib"
+  },
+  "d97f2ff1e3081f5160bd": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/doctolib/senior-partner-enablement-associate-berlin-berlin-322986",
+    "title": "Senior Partner Enablement Associate (x/f/m)",
+    "company": "Doctolib"
+  },
+  "1821da2c2a5b48d1614c": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/amber/werkstudentin-web-developement-frontend-koln-34371",
+    "title": "Werkstudent*in - Web Developement / Frontend",
+    "company": "Amber"
+  },
+  "30fdbd86ec412ec538d3": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/amber/head-of-ai-engineering-f-m-koln-296593",
+    "title": "Head of AI Engineering (F/M/*)",
+    "company": "Amber"
+  },
+  "e791183acf0b774dfd7d": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/amber/head-of-marketing-f-m-koln-482469",
+    "title": "Head of Marketing (F/M/*)",
+    "company": "Amber"
+  },
+  "d0ce9153df019760ff42": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/amber/head-of-finance-f-m-koln-21773",
+    "title": "Head of Finance (F/M/*)",
+    "company": "Amber"
+  },
+  "c1183035c51fa9690ad7": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/ait-thermal-qualification-intern-munich-498772",
+    "title": "AIT Thermal & Qualification Intern",
+    "company": "The Exploration Company"
+  },
+  "fdb4fdadeae698453d92": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/launcher-propulsion-engineer-munich-348344",
+    "title": "Launcher Propulsion Engineer",
+    "company": "The Exploration Company"
+  },
+  "db3399df91c0c4409f8c": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/avionics-manufacturing-team-lead-munich-302313",
+    "title": "Avionics Manufacturing Team Lead",
+    "company": "The Exploration Company"
+  },
+  "7506711f21af7bca77ad": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/egse-engineer-munich-66796",
+    "title": "EGSE Engineer",
+    "company": "The Exploration Company"
+  },
+  "f941900301425638b56f": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/zip/business-development-representative-munich-306371",
+    "title": "Business Development Representative",
+    "company": "Zip"
+  },
+  "b4e85e15c04fcefe2036": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/kayak/senior-machine-learning-ops-engineer-berlin-52422",
+    "title": "Senior Machine Learning Ops Engineer",
+    "company": "Kayak"
+  },
+  "e8dd345de1d8ca6abdfa": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/chaos/remote-senior-social-media-manager-1-year-fixed-term-maternity-cover-karlsruhe-136616",
+    "title": "Senior Social Media Manager (m/f/d) - 1-Year Fixed Term (Maternity Cover)",
+    "company": "Chaos"
+  },
+  "e043d134c031736dd098": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/hypertrics-gmbh/remote-hardware-entwickler-elektronikentwickler-berlin-43753",
+    "title": "Hardware-Entwickler / Elektronikentwickler (m/w/d)",
+    "company": "Hypertrics GmbH"
+  },
+  "fff1013ce741dff8fcc5": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/certuss-gmbh/softwareentwickler-automatisierungstechnik-sps-programmierer-krefeld-479744",
+    "title": "Softwareentwickler Automatisierungstechnik / SPS-Programmierer (m/w/d)",
+    "company": "CERTUSS GmbH"
+  },
+  "7dfae704cd1e5ec3d34c": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/homeserve/werkstudent-personalentwicklung-schwerpunkt-ausbildung-frankfurt-am-main-477706",
+    "title": "Werkstudent Personalentwicklung (m/w/d) – Schwerpunkt Ausbildung",
+    "company": "Homeserve"
+  },
+  "883e40728689afa7bf88": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/homeserve/senior-manager-corporate-finance-treasury-frankfurt-am-main-436189",
+    "title": "(Senior) Manager Corporate Finance & Treasury (m/w/d)",
+    "company": "Homeserve"
+  },
+  "6b29b815763971712b13": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/remotecom/remote-senior-manager-sales-account-management-46855",
+    "title": "Senior Manager, Sales - Account Management",
+    "company": "remotecom"
+  },
+  "755d555879d638c9dcc8": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/remotecom/senior-manager-sales-account-management-68716",
+    "title": "Senior Manager, Sales - Account Management",
+    "company": "remotecom"
+  },
+  "ec7137efcd7a8f696759": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/remotecom/remote-senior-account-manager-emea-93357",
+    "title": "Senior Account Manager - EMEA",
+    "company": "remotecom"
+  },
+  "598fdf8abb7fd40f4123": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/zip/senior-customer-success-manager-london-227107",
+    "title": "Senior Customer Success Manager",
+    "company": "Zip"
+  },
+  "417293144f13c28d2fd1": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/lupa-pets/finance-manager-london-452042",
+    "title": "Finance Manager",
+    "company": "Lupa Pets"
+  },
+  "1996a99bd5bca6399ba5": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/cfoinsights/account-executive-at-cfo-insights-london-183106",
+    "title": "Account Executive at CFO Insights",
+    "company": "Cfoinsights"
+  },
+  "b52ccc2c4fe98777a02b": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/clipboard/onboarding-expert-london-253106",
+    "title": "Onboarding Expert",
+    "company": "Clipboard"
+  },
+  "2e03e27c21e8c2b01ffc": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/bunch/head-of-sales-fund-administration-vc-pe-private-markets-london-287729",
+    "title": "Head of Sales | Fund Administration | VC & PE | Private Markets",
+    "company": "bunch"
+  },
+  "6fdf5bef04d5c4c9f3e4": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/buah/werkstudentin-supply-chain-hybrid-oder-remote-20h-woche-475058",
+    "title": "Werkstudent:in Supply Chain - Hybrid oder Remote, 20h / Woche",
+    "company": "buah"
+  },
+  "d6476b3588c8e639d287": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/zscaler/specialist-account-executive-data-security-city-of-london-corporation-gbr-418257",
+    "title": "Specialist Account Executive, Data Security",
+    "company": "zscaler"
+  },
+  "ce852126c6c497e4f965": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/zscaler/senior-sales-engineer-uk-298487",
+    "title": "Senior Sales Engineer - UK",
+    "company": "zscaler"
+  },
+  "85dbed2a94796f490933": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/zscaler/sales-account-executive-zero-trust-branch-city-of-london-corporation-gbr-872",
+    "title": "Sales Account Executive, Zero Trust Branch",
+    "company": "zscaler"
+  },
+  "2952cf56524cd100ac6a": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/zscaler/sales-account-executive-public-sector-education-city-of-london-corporation-gbr-367253",
+    "title": "Sales Account Executive, Public Sector Education",
+    "company": "zscaler"
+  },
+  "95fc1e8caf259823ac35": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/zscaler/sales-account-executive-majors-city-of-london-corporation-gbr-97909",
+    "title": "Sales Account Executive, Majors",
+    "company": "zscaler"
+  },
+  "8603032a03b0f8bcf2b1": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/zscaler/commercial-account-executive-city-of-london-corporation-gbr-84409",
+    "title": "Commercial Account Executive",
+    "company": "zscaler"
+  },
+  "4f2112396bb58f8032ab": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/industrious/member-experience-associate-london-25340",
+    "title": "Member Experience Associate - London",
+    "company": "Industrious"
+  },
+  "2cc28cc3fdebfbcb81df": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/industrious/member-experience-manager-london-251550",
+    "title": "Member Experience Manager - London",
+    "company": "Industrious"
+  },
+  "6aaec417ae5f1ef35fc9": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/mistralai/treasury-senior-associate-london-4704",
+    "title": "Treasury Senior Associate",
+    "company": "Mistral.ai"
+  },
+  "625e19847a25769426d2": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/lightspeedhq/german-speaking-support-specialist-belfast-426216",
+    "title": "German speaking Support Specialist",
+    "company": "Lightspeedhq"
+  },
+  "35d21ea51239c84f94ae": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/lightspeedhq/product-adoption-strategist-human-led-french-speaking-belfast-488143",
+    "title": "Product Adoption Strategist (Human-Led) French Speaking",
+    "company": "Lightspeedhq"
+  },
+  "db012c962188172463c6": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/lightspeedhq/product-adoption-strategist-digital-scalable-belfast-485778",
+    "title": "Product Adoption Strategist (Digital & Scalable)",
+    "company": "Lightspeedhq"
+  },
+  "254de63176bb4846364f": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/gismart/remote-uam-blessedapps-206374",
+    "title": "UAM (BlessedApps)",
+    "company": "Gismart"
+  },
+  "7659bca0a6c7acf3f26e": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/gismart/remote-creative-marketing-lead-372636",
+    "title": "Creative Marketing Lead",
+    "company": "Gismart"
+  },
+  "f4595cbed3774cddded1": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/gismart/remote-user-acquisition-manager-radiotech-340899",
+    "title": "User Acquisition Manager (Radiotech)",
+    "company": "Gismart"
+  },
+  "b16227f71d6c29641b92": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/gismart/remote-creative-marketing-manager-fitme-212007",
+    "title": "Creative Marketing Manager (FitMe)",
+    "company": "Gismart"
+  },
+  "b31bf17dcecf0f1c8e6b": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/gismart/remote-compliance-manager-162809",
+    "title": "Compliance Manager",
+    "company": "Gismart"
+  },
+  "c55ab7557212b2b76696": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/sfg20/implementation-delivery-manager-manchester-208394",
+    "title": "Implementation Delivery Manager",
+    "company": "Sfg20"
+  },
+  "7e8ee9e09f986152713a": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/sfg20/implementation-project-manager-manchester-460050",
+    "title": "Implementation Project Manager",
+    "company": "Sfg20"
+  },
+  "31e1593961f5be345d97": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/addepar1/sr-account-executive-enterprise-london-198718",
+    "title": "Sr. Account Executive- Enterprise",
+    "company": "Addepar1"
+  },
+  "c5d7d8a80779f9970dc5": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/addepar1/engineering-manager-data-platform-edinburgh-137521",
+    "title": "Engineering Manager - Data Platform",
+    "company": "Addepar1"
+  },
+  "aa962c3f714ad7d81d1b": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/addepar1/alts-data-ops-analyst-edinburgh-129143",
+    "title": "Alts Data Ops Analyst",
+    "company": "Addepar1"
+  },
+  "1594cc2f876e8a2fe4c9": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/vinteden/senior-strategic-partnership-manager-payments-226301",
+    "title": "Senior Strategic Partnership Manager - Payments",
+    "company": "Vinteden"
+  },
+  "5add3043875924ef7c6d": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/monzo/senior-product-marketing-manager-cardiff-331787",
+    "title": "Senior Product Marketing Manager",
+    "company": "Monzo"
+  },
+  "58577dbfccd5b2a3bc2c": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/monzo/senior-legal-counsel-digital-assets-and-payments-cardiff-351675",
+    "title": "Senior Legal Counsel, Digital Assets and Payments",
+    "company": "Monzo"
+  },
+  "ce7eb398027378d8ebf3": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/monzo/senior-audit-transformation-lead-london-97759",
+    "title": "Senior Audit Transformation Lead",
+    "company": "Monzo"
+  },
+  "3e6336110b4c1747c12c": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/vercel/partner-solutions-engineer-emea-hybrid-london-berlin-381545",
+    "title": "Partner Solutions Engineer, EMEA",
+    "company": "vercel"
+  },
+  "121f4ffc05f838ee27c2": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/fivetran/remote-senior-sales-engineer-enterprise-119105",
+    "title": "Senior Sales Engineer, Enterprise",
+    "company": "Fivetran"
+  },
+  "10a1dc174791f737d905": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/checkoutcom/principal-ceo-office-london-453776",
+    "title": "Principal, CEO Office",
+    "company": "Checkout.com"
+  },
+  "22b601506b74339e0369": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/checkoutcom/staff-product-designer-acquiring-design-system-london-139408",
+    "title": "Staff Product Designer, Acquiring & Design System",
+    "company": "Checkout.com"
+  },
+  "7006dd422695407761d7": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/checkoutcom/senior-mobile-engineer-london-246182",
+    "title": "Senior Mobile Engineer",
+    "company": "Checkout.com"
+  },
+  "c15dfb7bb09a8d18c3f0": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/rider-onboarding-associate-i2-manchester-6-months-secondment-345620",
+    "title": "Rider Onboarding Associate I2 Manchester - (6 Months Secondment)",
+    "company": "Deliveroo"
+  },
+  "65849440dca0dc4b33c3": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/openai/start-up-communications-manager-emea-london-79537",
+    "title": "Start-up Communications Manager, EMEA",
+    "company": "Openai"
+  },
+  "2ed3fd51052603cfae63": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/neoom/remote-senior-sales-manager-fur-intelligente-batteriespeicherlosungen-fur-gewerbe-und-industrie-316277",
+    "title": "Senior Sales Manager (m/w/d) für intelligente Batteriespeicherlösungen für Gewerbe und Industrie",
+    "company": "Neoom"
+  },
+  "0a054e771f6a0de20746": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/jobleads-careers/technical-seo-manager-fully-remote-within-europe-290862",
+    "title": "Technical SEO Manager - fully remote within Europe (m/f/d)",
+    "company": "JobLeads Careers"
+  },
+  "da3d8428ab3f265736ec": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/quantum-motion-technologies-personio/director-of-systems-delivery-london-uk-460926",
+    "title": "Director of Systems Delivery",
+    "company": "Quantum Motion Technologies - Personio"
+  },
+  "2b89741ce3a9cb76a70d": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/realchemistry/account-director-scientific-visualisation-experiential-74301",
+    "title": "Account Director (Scientific Visualisation & Experiential)",
+    "company": "Realchemistry"
+  },
+  "6a137d3fae1cf1bc63f6": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/checkatrade/sales-talent-pool-moorgate-198732",
+    "title": "Sales Talent Pool",
+    "company": "Checkatrade"
+  },
+  "5d7de6cbf526e1967434": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/sosafe/remote-technical-program-manager-63155",
+    "title": "Technical Program Manager",
+    "company": "SoSafe"
+  },
+  "d1b20f5caa2fef6cc056": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/stark/software-integration-test-engineer-maritime-autonomy-all-genders-plymouth-71571",
+    "title": "Software Integration & Test Engineer (Maritime Autonomy) (all genders)",
+    "company": "Stark"
+  },
+  "686245ccc3ccd6cb5f7a": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/remotereferralboardinternaluseonly/senior-manager-sales-account-management-emea-352354",
+    "title": "Senior Manager, Sales - Account Management",
+    "company": "Remotereferralboardinternaluseonly"
+  },
+  "a4179ddbe553cac67015": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/remotereferralboardinternaluseonly/senior-account-manager-emea-154470",
+    "title": "Senior Account Manager - EMEA",
+    "company": "Remotereferralboardinternaluseonly"
+  },
+  "82acf89bbf56c0e1b540": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/vmlenterprisesolutions/senior-social-commerce-strategist-london-manchester-288392",
+    "title": "Senior Social Commerce Strategist",
+    "company": "Vmlenterprisesolutions"
+  },
+  "6f6c625eb7669a4a8b28": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/omaze/payments-operations-specialist-ftc-london-220398",
+    "title": "Payments Operations Specialist - FTC",
+    "company": "Omaze"
+  },
+  "d99e69da109ac0f67bfe": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/omaze/payment-operations-specialist-london-444290",
+    "title": "Payment Operations Specialist",
+    "company": "Omaze"
+  },
+  "607198dd8b61fe149b38": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/anyone-ai/chemistry-expert-uk-london-424772",
+    "title": "Chemistry Expert (UK)",
+    "company": "Anyone Ai"
+  },
+  "bead014d3c28d53db53b": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/constructor/remote-full-stack-engineer-retail-media-84755",
+    "title": "Full Stack Engineer: Retail Media",
+    "company": "Constructor"
+  },
+  "4bfd284911c090f496da": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/constructor/remote-data-analyst-retail-media-360467",
+    "title": "Data Analyst: Retail Media",
+    "company": "Constructor"
+  },
+  "dfabc35b13eea57b374a": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/constructor/remote-senior-backend-engineer-machine-learning-infrastructure-169800",
+    "title": "Senior Backend Engineer: Machine Learning Infrastructure",
+    "company": "Constructor"
+  },
+  "31e6e1f37b2414ea58eb": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/ionity-gmbh/remote-working-student-market-business-intelligence-277530",
+    "title": "Working Student - Market & Business Intelligence (f/m/x)",
+    "company": "Ionity Gmbh"
+  },
+  "cf9a60cffe245bedcda7": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/onrunning/software-engineer-operations-london-235372",
+    "title": "Software Engineer - Operations",
+    "company": "onrunning"
+  },
+  "ba8502e82c050fe59f0c": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/thgingenuity/senior-customer-success-manager-manchester-453483",
+    "title": "Senior Customer Success Manager",
+    "company": "Thgingenuity"
+  },
+  "98c8e94c94b8db686c07": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/thgingenuity/graduate-content-executive-thg-ingenuity-manchester-35870",
+    "title": "Graduate Content Executive - THG Ingenuity",
+    "company": "Thgingenuity"
+  },
+  "6f94332772293f7aa5ae": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/smartsheet/professional-services-business-development-director-london-12980",
+    "title": "Professional Services Business Development Director",
+    "company": "Smartsheet"
+  },
+  "8cc1a09a205c49e9d657": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/quberesearchandtechnologies/database-engineer-clickhouse-london-395414",
+    "title": "Database Engineer (ClickHouse)",
+    "company": "Quberesearchandtechnologies"
+  },
+  "dbc54f41df6a4a162dd4": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/unybrands/senior-supply-chain-manager-hemel-hempstead-314239",
+    "title": "Senior Supply Chain Manager",
+    "company": "unybrands"
+  },
+  "61239d1d1a720bb112dd": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/account-executive-at-retail-insights-london-22309",
+    "title": "Account Executive at Retail Insights",
+    "company": "Retailinsights"
+  },
+  "29d29a5347fcb429db37": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-senior-backend-engineer-ruby-ai-engineering-dap-repository-flows-58849",
+    "title": "Senior Backend Engineer (Ruby), AI Engineering: DAP Repository Flows",
+    "company": "Gitlab"
+  },
+  "03aa7385e55ee8dc3764": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/openai/start-up-communications-manager-emea-london-67146",
+    "title": "Start-up Communications Manager, EMEA",
+    "company": "OpenAI"
+  },
+  "443864600170a2d13269": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/1st20formations/mail-administrator-london-335490",
+    "title": "Mail Administrator",
+    "company": "1St%20Formations"
+  },
+  "2555c3da58ff9a0bc7ec": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/1st20formations/senior-tax-specialist-london-379560",
+    "title": "Senior Tax Specialist",
+    "company": "1St%20Formations"
+  },
+  "ca0bbe4817b057fe3a6c": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/1st20formations/front-end-web-developer-3-month-contract-london-273833",
+    "title": "Front-End Web Developer -  3 Month Contract",
+    "company": "1St%20Formations"
+  },
+  "2f0ad5ec493d110d330b": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/1st20formations/senior-product-designer-london-228440",
+    "title": "Senior Product Designer",
+    "company": "1St%20Formations"
+  },
+  "137e2fe44e5eac53d013": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/1st20formations/senior-product-manager-london-200075",
+    "title": "Senior Product Manager",
+    "company": "1St%20Formations"
+  },
+  "26036f22ea40779bba94": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/1st20formations/hubspot-platform-specialist-london-87536",
+    "title": "Hubspot Platform Specialist",
+    "company": "1St%20Formations"
+  },
+  "5c663b5cd88a266041f0": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/1st20formations/tax-accountant-immediatly-available-london-179275",
+    "title": "Tax Accountant - Immediatly Available",
+    "company": "1St%20Formations"
+  },
+  "fc84c54e0078fac812f9": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/orbem/legal-counsel-munich-234083",
+    "title": "Legal Counsel (f/m/d)",
+    "company": "Orbem"
+  },
+  "71e9177755965bb49858": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/orbem/senior-mri-application-specialist-munich-71261",
+    "title": "Senior MRI Application Specialist (f/m/d)",
+    "company": "Orbem"
+  },
+  "878c32712836cea7a5ee": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/glow25/remote-accounting-manager-accounts-payable-all-genders-243508",
+    "title": "Accounting Manager – Accounts Payable (all genders)",
+    "company": "Glow25"
+  },
+  "17eaaa8667dfb58fb91b": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/vogel/schulerjob-minijob-aalen-194249",
+    "title": "Schülerjob / Minijob (m/w/d)",
+    "company": "Vogel"
+  },
+  "ffb376583ec32c88f114": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/cello/senior-product-designer-germany-336991",
+    "title": "Senior Product Designer",
+    "company": "Cello"
+  },
+  "b825261195c3391d6b0f": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/cello/senior-growth-manager-germany-332441",
+    "title": "Senior Growth Manager",
+    "company": "Cello"
+  },
+  "d9acecd84cd1762e146a": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/cello/software-engineer-germany-13309",
+    "title": "Software Engineer (m/f/d)",
+    "company": "Cello"
+  },
+  "dd0d845a00287647200e": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/cello/senior-software-engineer-germany-380658",
+    "title": "Senior Software Engineer (m/f/d)",
+    "company": "Cello"
+  },
+  "73dd139c7443f9cad9cf": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/natuvion-gmbh/remote-team-lead-global-talent-acquisition-berlin-22171",
+    "title": "Team Lead Global Talent Acquisition (m/w/d)",
+    "company": "Natuvion GmbH"
+  },
+  "d9835bc1b3cec16a7f3d": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/amperecloud-gmbh/software-engineer-berlin-35300",
+    "title": "Software Engineer (m/f/d)",
+    "company": "Amperecloud GmbH"
+  },
+  "a5d2e51f5d561a8a2251": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/innogames/innomaster-big-data-engineering-part-time-masters-program-hamburg-384251",
+    "title": "InnoMaster Big Data Engineering - part-time Master's Program",
+    "company": "Innogames"
+  },
+  "6dffc01c9b5aa2dd5a27": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/coffee-circle/werkstudentin-kommunikationsdesign-berlin-363221",
+    "title": "Werkstudent:in Kommunikationsdesign (m/w/d)",
+    "company": "Coffee Circle"
+  },
+  "b93e4b6fd04c0df6ca78": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/thebase-fol-group-gmbh/buchhalter-controller-all-genders-berlin-187960",
+    "title": "Buchhalter / Controller (all genders)",
+    "company": "theBASE FOL Group GmbH"
+  },
+  "9a25bba920a50a4f710d": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/xeno-patch/ai-strategy-digital-implementation-munich-109620",
+    "title": "AI-Strategy & Digital Implementation",
+    "company": "Xeno Patch"
+  },
+  "09c7b33ba9ef037e9c88": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/remotereferralboardinternaluseonly/senior-manager-sales-account-management-emea-280377",
+    "title": "Senior Manager, Sales - Account Management",
+    "company": "Remotereferralboardinternaluseonly"
+  },
+  "a34575f3a2bdcbe82b32": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/remotereferralboardinternaluseonly/senior-account-manager-emea-366888",
+    "title": "Senior Account Manager - EMEA",
+    "company": "Remotereferralboardinternaluseonly"
+  },
+  "d59da55b5c826f2f2382": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/gropyus/senior-network-engineer-all-genders-berlin-berlin-227913",
+    "title": "Senior Network Engineer (all genders)",
+    "company": "Gropyus"
+  },
+  "4a44131eeda127e8abd1": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/gropyus/senior-business-process-manager-berlin-berlin-14149",
+    "title": "Senior Business Process Manager (m/w/d)",
+    "company": "Gropyus"
+  },
+  "4cfeb712c4b1b574b099": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/gropyus/data-engineer-all-genders-berlin-berlin-461780",
+    "title": "Data Engineer (all genders)",
+    "company": "Gropyus"
+  },
+  "0cb77734c9d366f855cc": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-design-director-146536",
+    "title": "Design Director",
+    "company": "Clera"
+  },
+  "277a16699e7c74481dc5": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-community-operations-lead-351735",
+    "title": "Community Operations Lead",
+    "company": "Clera"
+  },
+  "fa697a019d2cb2192e47": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/forward-deployed-engineer-dach-munich-421861",
+    "title": "Forward Deployed Engineer, DACH",
+    "company": "Clera"
+  },
+  "3c2196134497b1a46bbd": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/enterprise-ai-transformation-lead-dach-munich-80693",
+    "title": "Enterprise AI Transformation Lead, DACH",
+    "company": "Clera"
+  },
+  "7e175e43af0382405f4c": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/senior-frontend-engineer-berlin-448832",
+    "title": "Senior Frontend Engineer",
+    "company": "Clera"
+  },
+  "89768368c48b7ef28b9f": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-founding-scientist-co-founder-15136",
+    "title": "Founding Scientist / Co-Founder",
+    "company": "Clera"
+  },
+  "3d8fd6c338e14465c45f": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/senior-frontend-developer-berlin-203366",
+    "title": "Senior Frontend Developer",
+    "company": "Clera"
+  },
+  "a61152ffce1235498728": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/visiting-finance-analyst-berlin-181258",
+    "title": "Visiting Finance Analyst",
+    "company": "Clera"
+  },
+  "46f70e8ec9f798a82377": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/enterprise-account-manager-berlin-171990",
+    "title": "Enterprise Account Manager",
+    "company": "Clera"
+  },
+  "315b6aa9d539aac59c9e": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/customer-success-manager-munich-495336",
+    "title": "Customer Success Manager",
+    "company": "Clera"
+  },
+  "fd2a8fbe33248616e2fd": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/product-engineer-full-stack-berlin-76444",
+    "title": "Product Engineer (Full-Stack)",
+    "company": "Clera"
+  },
+  "b5348b892ac1a0eefaef": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/senior-backend-developer-berlin-342773",
+    "title": "Senior Backend Developer",
+    "company": "Clera"
+  },
+  "6f54d255276e562e9e41": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/growth-generalist-berlin-335208",
+    "title": "Growth Generalist",
+    "company": "Clera"
+  },
+  "a96df62bf8a17660b701": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/senior-account-executive-berlin-197115",
+    "title": "Senior Account Executive",
+    "company": "Clera"
+  },
+  "f4e72505a0e3b88cae14": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/product-engineer-berlin-332042",
+    "title": "Product Engineer",
+    "company": "Clera"
+  },
+  "aabe42d49622592d2bf8": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/platform-engineer-berlin-385463",
+    "title": "Platform Engineer",
+    "company": "Clera"
+  },
+  "2006c726eaad75363943": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/product-engineer-berlin-242652",
+    "title": "Product Engineer",
+    "company": "Clera"
+  },
+  "ea9053e2ccfcda1058be": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-forward-deployment-engineer-53846",
+    "title": "Forward Deployment Engineer",
+    "company": "Clera"
+  },
+  "66cfdda17c9914befb18": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/engineering-intern-berlin-70901",
+    "title": "Engineering Intern",
+    "company": "Clera"
+  },
+  "f0a0ec1ff4428d418427": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/founding-engineer-product-process-berlin-373659",
+    "title": "Founding Engineer – Product & Process",
+    "company": "Clera"
+  },
+  "d151fafb033f32a1dc5b": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/founders-associate-chief-of-staff-munich-270095",
+    "title": "Founders' Associate / Chief of Staff",
+    "company": "Clera"
+  },
+  "4d83b59b46fc5790ddeb": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/senior-staff-product-designer-munich-495924",
+    "title": "Senior / Staff Product Designer",
+    "company": "Clera"
+  },
+  "15c141608e30d7ef1b53": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-founding-product-engineer-207401",
+    "title": "Founding Product Engineer",
+    "company": "Clera"
+  },
+  "ea5c9a0535d4a0ebc6fb": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/team-lead-account-executives-munich-256348",
+    "title": "Team Lead, Account Executives",
+    "company": "Clera"
+  },
+  "24d3a07cc978ed5fb8be": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/founding-engineer-munich-347476",
+    "title": "Founding Engineer",
+    "company": "Clera"
+  },
+  "cf2c5c46e0f3ec0149fe": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/full-stack-engineer-founding-team-munich-1872",
+    "title": "Full-Stack Engineer (Founding Team)",
+    "company": "Clera"
+  },
+  "094d7a710c29e9d050e2": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/software-engineer-berlin-160207",
+    "title": "Software Engineer",
+    "company": "Clera"
+  },
+  "48f34d587a807d6c295e": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/founders-associate-berlin-390458",
+    "title": "Founder's Associate",
+    "company": "Clera"
+  },
+  "a8eee79a4e76ba180227": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/senior-technical-account-manager-berlin-334748",
+    "title": "Senior Technical Account Manager",
+    "company": "Clera"
+  },
+  "fde4fd99bea604db1318": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/associate-founding-engineer-full-stack-munich-142108",
+    "title": "Associate Founding Engineer (Full-Stack)",
+    "company": "Clera"
+  },
+  "4d23be9fb1e6a6f95cdb": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/senior-full-stack-engineer-munich-404819",
+    "title": "Senior Full-Stack Engineer",
+    "company": "Clera"
+  },
+  "67646c74061918225b2b": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/senior-software-engineer-sdk-berlin-439381",
+    "title": "Senior Software Engineer (SDK)",
+    "company": "Clera"
+  },
+  "26db21a3d8bf44280c57": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/forward-deployed-engineer-berlin-243536",
+    "title": "Forward Deployed Engineer",
+    "company": "Clera"
+  },
+  "cef45adf84bc2b48eca9": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/senior-product-engineer-berlin-32507",
+    "title": "Senior Product Engineer",
+    "company": "Clera"
+  },
+  "93ae5faf89291ff2c798": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-growth-marketing-lead-251114",
+    "title": "Growth Marketing Lead",
+    "company": "Clera"
+  },
+  "a5363a8198706ccb5f1c": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/b2b-account-executive-berlin-183508",
+    "title": "B2B Account Executive",
+    "company": "Clera"
+  },
+  "5a9d4e930a183109561c": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/founders-associate-berlin-309498",
+    "title": "Founders Associate",
+    "company": "Clera"
+  },
+  "3bffdf41eb3c40a2bc44": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/werkstudent-content-brand-berlin-418046",
+    "title": "Werkstudent Content & Brand (m/w/d)",
+    "company": "Clera"
+  },
+  "4244c350896873465ca4": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-head-of-gtm-399893",
+    "title": "Head of GTM",
+    "company": "Clera"
+  },
+  "15ae679a2b8a81c47642": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-founding-cloud-infrastructure-engineer-100861",
+    "title": "Founding Cloud Infrastructure Engineer",
+    "company": "Clera"
+  },
+  "5b60b5242915d5f1dc1e": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/brand-designer-berlin-86088",
+    "title": "Brand Designer",
+    "company": "Clera"
+  },
+  "d35d18600b5a43a4e1a8": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/partnership-manager-berlin-58648",
+    "title": "Partnership Manager",
+    "company": "Clera"
+  },
+  "d7bfa78db3b3aa5aef9e": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/founders-associate-berlin-210744",
+    "title": "Founder's Associate",
+    "company": "Clera"
+  },
+  "1217f8663d325c7b3415": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/senior-account-executive-munich-340423",
+    "title": "Senior Account Executive",
+    "company": "Clera"
+  },
+  "9dcc48a9d6503a8b7093": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/product-marketer-berlin-128710",
+    "title": "Product Marketer",
+    "company": "Clera"
+  },
+  "903e89c7a32e44cde65c": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/business-development-manager-berlin-330274",
+    "title": "Business Development Manager",
+    "company": "Clera"
+  },
+  "a5d99693120abcf5d083": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/founding-engineer-munich-481672",
+    "title": "Founding Engineer",
+    "company": "Clera"
+  },
+  "a066e44b795597a3e61f": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/customer-success-manager-munich-107026",
+    "title": "Customer Success Manager",
+    "company": "Clera"
+  },
+  "a4c81b6ee79ffa062ed1": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/ai-engineer-model-training-deployment-munich-362075",
+    "title": "AI Engineer – Model Training & Deployment",
+    "company": "Clera"
+  },
+  "7d501a861acd66cf74ee": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/product-engineer-full-stack-agentic-ai-berlin-337996",
+    "title": "Product Engineer (Full-Stack / Agentic AI)",
+    "company": "Clera"
+  },
+  "8f39fb6f58588816000a": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/head-of-ai-research-berlin-66681",
+    "title": "Head of AI Research",
+    "company": "Clera"
+  },
+  "67c07267e208b5ec5770": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/member-of-commercial-staff-berlin-324511",
+    "title": "Member of Commercial Staff",
+    "company": "Clera"
+  },
+  "f1d091b669fec7bc0664": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/founding-deployment-strategist-munich-281498",
+    "title": "Founding Deployment Strategist",
+    "company": "Clera"
+  },
+  "a352db5060ba78e5648e": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/enterprise-account-executive-munich-349609",
+    "title": "Enterprise Account Executive",
+    "company": "Clera"
+  },
+  "b6ecb11925c7fd316bf9": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-staff-engineer-founding-111093",
+    "title": "Staff Engineer (Founding)",
+    "company": "Clera"
+  },
+  "474c7618009eee520a08": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/member-of-technical-staff-product-ai-agents-munich-271188",
+    "title": "Member of Technical Staff, Product (AI Agents)",
+    "company": "Clera"
+  },
+  "c1628f9587c8d3f2995e": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/strategy-operations-product-growth-munich-373609",
+    "title": "Strategy & Operations – Product Growth",
+    "company": "Clera"
+  },
+  "9296c9d27522b447e1b1": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/full-stack-software-engineer-berlin-478712",
+    "title": "Full-Stack Software Engineer",
+    "company": "Clera"
+  },
+  "31cc19d20eb1595ce1cc": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/customer-support-engineer-munich-101860",
+    "title": "Customer Support Engineer",
+    "company": "Clera"
+  },
+  "b7edda0646db08950b74": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/founders-associate-gtm-sales-munich-246046",
+    "title": "Founder's Associate (GTM/Sales)",
+    "company": "Clera"
+  },
+  "a52d8ea853c8e89ec8cf": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/senior-business-development-representative-munich-20682",
+    "title": "Senior Business Development Representative",
+    "company": "Clera"
+  },
+  "9291c9c5149f320b6126": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/head-of-product-design-munich-13079",
+    "title": "Head of Product Design",
+    "company": "Clera"
+  },
+  "2a8314d35d14561a1d07": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/founding-people-talent-lead-munich-368654",
+    "title": "Founding People & Talent Lead",
+    "company": "Clera"
+  },
+  "1da1aa4794e3b5b9917e": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/founding-engineer-berlin-185929",
+    "title": "Founding Engineer",
+    "company": "Clera"
+  },
+  "de1420e3ac7183d6376f": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/sales-intern-munich-221587",
+    "title": "Sales Intern",
+    "company": "Clera"
+  },
+  "8c78c6b42157c3ee0a78": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/account-executive-munich-336717",
+    "title": "Account Executive",
+    "company": "Clera"
+  },
+  "7fbf29d2db5cdf2c0a8b": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/founding-engineer-backend-platform-berlin-203681",
+    "title": "Founding Engineer – Backend & Platform",
+    "company": "Clera"
+  },
+  "74d81783baf1f0b0ca1b": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/software-engineer-infrastructure-berlin-209952",
+    "title": "Software Engineer, Infrastructure",
+    "company": "Clera"
+  },
+  "fccaffa46feab83d9cdd": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/culture-and-community-manager-berlin-251668",
+    "title": "Culture and Community Manager",
+    "company": "Clera"
+  },
+  "03b4057e883816ea9c2f": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/revenue-operations-manager-munich-314808",
+    "title": "Revenue Operations Manager",
+    "company": "Clera"
+  },
+  "e8458bf9ad4421d8586d": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-founding-marketer-growth-gtm-305212",
+    "title": "Founding Marketer (Growth & GTM)",
+    "company": "Clera"
+  },
+  "e0e49ddc521d92f0aab8": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/senior-full-stack-engineer-munich-276876",
+    "title": "Senior Full Stack Engineer",
+    "company": "Clera"
+  },
+  "7da629068ed99f3006b2": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/full-stack-engineer-munich-291878",
+    "title": "Full Stack Engineer",
+    "company": "Clera"
+  },
+  "8df0f32e89bc409ca457": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/junior-product-designer-munich-90817",
+    "title": "Junior Product Designer",
+    "company": "Clera"
+  },
+  "7add5a9eff2fe60e4b93": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/founding-gtm-b2b-sales-lead-berlin-149245",
+    "title": "Founding GTM & B2B Sales Lead",
+    "company": "Clera"
+  },
+  "39f069ea3aa2b55fdf1d": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-founding-operations-customer-success-lead-14073",
+    "title": "Founding Operations & Customer Success Lead",
+    "company": "Clera"
+  },
+  "ff2b1a116f7f9da14818": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/business-development-representative-berlin-154366",
+    "title": "Business Development Representative",
+    "company": "Clera"
+  },
+  "980319e409355c7b9437": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/customer-engineer-berlin-281206",
+    "title": "Customer Engineer",
+    "company": "Clera"
+  },
+  "0cdb57d2adb043260ba5": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/software-engineer-berlin-451870",
+    "title": "Software Engineer",
+    "company": "Clera"
+  },
+  "4944c68aa46934d0cf95": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/head-of-marketing-berlin-226332",
+    "title": "Head of Marketing",
+    "company": "Clera"
+  },
+  "06c39ad0279b47b7f9e2": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/ai-llm-engineer-munich-303117",
+    "title": "AI/LLM Engineer",
+    "company": "Clera"
+  },
+  "ceb2024a3a304d091910": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/founders-associate-intern-working-student-enterprise-sales-outbound-berlin-216005",
+    "title": "Founder's Associate Intern / Working Student – Enterprise Sales & Outbound",
+    "company": "Clera"
+  },
+  "8082b2c67f56f1f17989": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/sales-development-representative-dach-munich-434034",
+    "title": "Sales Development Representative – DACH",
+    "company": "Clera"
+  },
+  "c91cb223330f829ea760": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/founding-account-executive-sales-development-representative-berlin-333232",
+    "title": "Founding Account Executive / Sales Development Representative",
+    "company": "Clera"
+  },
+  "7bd5e1d78a849ef644ae": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/full-stack-engineer-munich-473644",
+    "title": "Full-Stack Engineer",
+    "company": "Clera"
+  },
+  "0a3bbe76a62a99a24df9": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/backend-engineer-berlin-147739",
+    "title": "Backend Engineer",
+    "company": "Clera"
+  },
+  "784b490b5d785f07e648": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/ml-engineer-agents-reasoning-berlin-356036",
+    "title": "ML Engineer, Agents & Reasoning",
+    "company": "Clera"
+  },
+  "fc01fe27cda175cec455": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/applied-ai-engineer-ai-automation-berlin-289511",
+    "title": "Applied AI Engineer – AI & Automation",
+    "company": "Clera"
+  },
+  "a166e27410d291987ea4": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/founders-associate-berlin-444465",
+    "title": "Founder's Associate",
+    "company": "Clera"
+  },
+  "fc013cbf7a5aca577990": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/member-of-commercial-staff-munich-497010",
+    "title": "Member of Commercial Staff",
+    "company": "Clera"
+  },
+  "d8303dca3c64cd619d00": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-sap-pp-qm-consultant-senior-210638",
+    "title": "SAP PP/QM Consultant (Senior)",
+    "company": "Clera"
+  },
+  "8de7090036aea2084514": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-founding-forward-deployed-ml-engineer-295402",
+    "title": "Founding Forward-Deployed ML Engineer",
+    "company": "Clera"
+  },
+  "5fc22fd2762680c02214": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-senior-geospatial-machine-learning-engineer-452654",
+    "title": "Senior Geospatial Machine Learning Engineer",
+    "company": "Clera"
+  },
+  "69e0b225a3f934c02282": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-tech-lead-397141",
+    "title": "Tech Lead",
+    "company": "Clera"
+  },
+  "0127716d450ab53177c1": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-full-stack-frontend-engineer-167429",
+    "title": "Full Stack Frontend Engineer",
+    "company": "Clera"
+  },
+  "94d72159dd49fda15154": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-founding-product-engineer-374442",
+    "title": "Founding Product Engineer",
+    "company": "Clera"
+  },
+  "35e6c64e3bc58264f262": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/product-engineer-growth-berlin-188171",
+    "title": "Product Engineer (Growth)",
+    "company": "Clera"
+  },
+  "bbb397126d2dde5f38fd": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/founding-product-engineer-munich-106644",
+    "title": "Founding Product Engineer",
+    "company": "Clera"
+  },
+  "add9c547f1b27372da55": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-brand-marketing-manager-224387",
+    "title": "Brand Marketing Manager",
+    "company": "Clera"
+  },
+  "3d55a628c1d259ecc413": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-founding-lead-recruiter-468030",
+    "title": "Founding Lead Recruiter",
+    "company": "Clera"
+  },
+  "6cfa6d56b776876b1dde": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-pre-sales-deployed-engineer-164065",
+    "title": "Pre-Sales Deployed Engineer",
+    "company": "Clera"
+  },
+  "a8c72f6bc70de60fc1da": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-ml-engineer-robotics-485884",
+    "title": "ML Engineer - Robotics",
+    "company": "Clera"
+  },
+  "381cff9490716362b846": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-founding-machine-learning-engineer-379036",
+    "title": "Founding Machine Learning Engineer",
+    "company": "Clera"
+  },
+  "e9a491182aad6c6fded3": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-founding-ui-ux-graphic-designer-469404",
+    "title": "Founding UI/UX & Graphic Designer",
+    "company": "Clera"
+  },
+  "ac9ac016037ea88ada15": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-founding-full-stack-ios-engineer-64757",
+    "title": "Founding Full-Stack iOS Engineer",
+    "company": "Clera"
+  },
+  "37089345d913399e0889": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/product-engineer-berlin-472226",
+    "title": "Product Engineer",
+    "company": "Clera"
+  },
+  "71ed8223d291a673b015": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-growth-marketing-manager-285730",
+    "title": "Growth Marketing Manager",
+    "company": "Clera"
+  },
+  "67d3eb595e6fe3839392": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/senior-backend-engineer-berlin-336741",
+    "title": "Senior Backend Engineer",
+    "company": "Clera"
+  },
+  "d524ff864dc489540027": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-technical-account-manager-371829",
+    "title": "Technical Account Manager",
+    "company": "Clera"
+  },
+  "2075c8d396d0f6ac0058": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-senior-site-reliability-engineer-487071",
+    "title": "Senior Site Reliability Engineer",
+    "company": "Clera"
+  },
+  "0a9102cb67bec23326a0": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/developer-relations-engineer-berlin-271610",
+    "title": "Developer Relations Engineer",
+    "company": "Clera"
+  },
+  "d8cf9fcc614f5939c133": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/ai-backend-engineer-munich-333562",
+    "title": "AI & Backend Engineer",
+    "company": "Clera"
+  },
+  "6f421b702404b89b0248": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/accantec-group/bachelorarbeit-ki-gestutzte-automatisierung-des-datenimports-im-data-warehouse-heidelberg-197865",
+    "title": "Bachelorarbeit (m/w/d) – KI-gestützte Automatisierung des Datenimports im Data Warehouse",
+    "company": "Accantec Group"
+  },
+  "6c0bb06ebb6a86bc3cb6": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/malt/account-executive-smb-mid-market-berlin-450880",
+    "title": "Account Executive - SMB/Mid-Market",
+    "company": "Malt"
+  },
+  "0eaf491670948d9f9ec7": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/polytalent-gmbh/bauingenieur-fur-hydraulische-kanalnetzberechnung-traunreut-117935",
+    "title": "Bauingenieur für hydraulische Kanalnetzberechnung (m/w/d)",
+    "company": "PolyTALENT GmbH"
+  },
+  "7da9b0c900b7e1ebca33": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/seomatik-gmbh/praktikum-online-marketing-marketing-ki-ai-bielefeld-126844",
+    "title": "Praktikum Online-Marketing / Marketing / KI / AI",
+    "company": "SEOMATIK GmbH"
+  },
+  "7067041b3404f6208afe": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/coveoen/forward-deployed-engineer-293037",
+    "title": "Forward Deployed Engineer",
+    "company": "Coveoen"
+  },
+  "edb7185522e089bc9ff0": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/workerbase/marketing-lead-munich-151810",
+    "title": "Marketing Lead",
+    "company": "Workerbase"
+  },
+  "399f3bad0e39dd994447": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/anyone-ai/chemistry-expert-germany-berlin-156072",
+    "title": "Chemistry Expert (Germany)",
+    "company": "Anyone Ai"
+  },
+  "fd28c06b9f0f0d826983": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/statista/working-student-modeled-data-hamburg-37351",
+    "title": "Working Student Modeled Data",
+    "company": "Statista"
+  },
+  "77e35f1ab33c92edcc3e": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/statista/senior-principal-product-manager-hamburg-or-berlin-430924",
+    "title": "Senior (Principal) Product Manager (m/f/d)",
+    "company": "Statista"
+  },
+  "d2bde9c57fe19873bd18": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/choco/senior-software-engineer-platform-berlin-288242",
+    "title": "Senior Software Engineer - Platform",
+    "company": "Choco"
+  },
+  "3e388b5ced380db965b3": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/choco/workplace-culture-intern-berlin-398295",
+    "title": "Workplace & Culture Intern",
+    "company": "Choco"
+  },
+  "1f4a45af4355c0b237ff": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/choco/enterprise-account-executive-berlin-52715",
+    "title": "Enterprise Account Executive",
+    "company": "Choco"
+  },
+  "227546124f1e86f6da70": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/choco/head-of-revenue-operations-berlin-240261",
+    "title": "Head of Revenue Operations",
+    "company": "Choco"
+  },
+  "aba0c0612ebc94b55900": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/machine-learning-reply/genai-engineer-munich-131262",
+    "title": "GenAI Engineer (m/w/d)",
+    "company": "Machine Learning Reply"
+  },
+  "cc071855a9f6ac7f446e": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/werraenergie-gmbh/werkstudent-social-media-marketing-bad-salzungen-115066",
+    "title": "Werkstudent Social Media | Marketing (m/w/d)",
+    "company": "WerraEnergie GmbH"
+  },
+  "48ba629c7a32f09d1795": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/werraenergie-gmbh/werkstudent-vertrieb-bad-salzungen-260048",
+    "title": "Werkstudent Vertrieb (m/w/d)",
+    "company": "WerraEnergie GmbH"
+  },
+  "e55d1d04b39f78aea63e": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/werraenergie-gmbh/werkstudent-bad-salzungen-89104",
+    "title": "Werkstudent (m/w/d)",
+    "company": "WerraEnergie GmbH"
+  },
+  "ca57a602d01ed3247d56": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/werraenergie-gmbh/werkstudent-elektrotechnik-energietechnik-bad-salzungen-72402",
+    "title": "Werkstudent Elektrotechnik / Energietechnik (m/w/d)",
+    "company": "WerraEnergie GmbH"
+  },
+  "89c6b99ba5f7c71451dd": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/tabel-gmbh/senior-consultant-arbeitnehmeruberlassung-laatzen-339679",
+    "title": "(Senior) Consultant (m/w/d) Arbeitnehmerüberlassung",
+    "company": "Tabel GmbH"
+  },
+  "f3c236ae61307e6b2204": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/coupa-software-inc/senior-solution-advisor-11612-germany-475693",
+    "title": "Senior Solution Advisor - 11612",
+    "company": "Coupa Software, Inc."
+  },
+  "4d174fa5263de04b66a4": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/aimea/mitgrunderin-vertrieb-business-vollzeit-hamburg-oder-remote-in-der-eu-exist-finanzierung-geplant-370516",
+    "title": "Mitgründer:in Vertrieb & Business (m/w/d), Vollzeit, Hamburg oder remote in der EU, EXIST-Finanzierung geplant",
+    "company": "aimea"
+  },
+  "08a72ef3f3e89cbac4cf": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/databricks/lakebase-sales-specialist-associate-director-germany-hesse-313357",
+    "title": "Lakebase Sales Specialist, Associate Director (Germany)",
+    "company": "databricks"
+  },
+  "e31be474233ef906e358": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/databricks/lakebase-sales-specialist-associate-director-germany-munich-276302",
+    "title": "Lakebase Sales Specialist, Associate Director (Germany)",
+    "company": "databricks"
+  },
+  "3337e0636b5fd7200fab": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/enpal/seo-automation-lead-berlin-217129",
+    "title": "SEO Automation Lead (w/m/d)",
+    "company": "Enpal"
+  },
+  "c63bee3dbf8bda65df01": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/enpal/search-marketing-lead-berlin-5158",
+    "title": "Search Marketing Lead (w/m/d)",
+    "company": "Enpal"
+  },
+  "140645982242d2fe0956": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/enpal/organic-growth-lead-berlin-447657",
+    "title": "Organic Growth Lead (w/m/d)",
+    "company": "Enpal"
+  },
+  "54494e2e4d6093ca4d29": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/enpal/principal-seo-berlin-254800",
+    "title": "Principal SEO (w/m/d)",
+    "company": "Enpal"
+  },
+  "fdf73887c784c008ebbf": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/enpal/teamlead-organic-search-berlin-177352",
+    "title": "Teamlead Organic Search (w/m/d)",
+    "company": "Enpal"
+  },
+  "8a5574a070caf4289f6a": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/enpal/fachkraft-fur-arbeitssicherheit-sifa-berlin-393055",
+    "title": "Fachkraft für Arbeitssicherheit (SiFA) (w/m/d)",
+    "company": "Enpal"
+  },
+  "1b2ed1d1b0007a10f2d9": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/enpal/remote-teamleiterin-fur-fur-photovoltaikanlagen-131782",
+    "title": "Teamleiter:in für für Photovoltaikanlagen (w/m/d)",
+    "company": "Enpal"
+  },
+  "c45e663db9180dd2655c": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/enpal/teamleiterin-fur-fur-photovoltaikanlagen-hannover-393564",
+    "title": "Teamleiter:in für für Photovoltaikanlagen (w/m/d)",
+    "company": "Enpal"
+  },
+  "3996608d1ec1796139e3": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/cuspai/technical-program-manager-ai-ml-berlin-172762",
+    "title": "Technical Program Manager (AI/ML)",
+    "company": "Cuspai"
+  },
+  "47b69c410be1412937dc": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/vogel/schulerjob-minijob-aalen-293147",
+    "title": "Schülerjob / Minijob (m/w/d)",
+    "company": "Vogel"
+  },
+  "d23e16833149cfb5a71a": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/sensmore/technical-founders-associate-berlin-on-site-berlin-potsdam-420450",
+    "title": "Technical Founder's Associate (Berlin, on-site)",
+    "company": "Sensmore"
+  },
+  "fed3e09dd2e89a9f3502": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/arsipa-gmbh/senior-people-operations-partner-deutschland-148606",
+    "title": "(Senior) People Operations Partner (w/m/d)",
+    "company": "Arsipa GmbH"
+  },
+  "a123436ab0d23be40424": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/encontec-gmbh/hardware-entwickler-digitale-signalverarbeitung-backnang-344523",
+    "title": "Hardware Entwickler (m/w/d) digitale Signalverarbeitung",
+    "company": "encontec GmbH"
+  },
+  "df7ecda3fe63475b72e3": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/quantco/office-management-working-student-munich-or-karlsruhe-76537",
+    "title": "Office Management Working Student",
+    "company": "Quantco "
+  },
+  "88de2e11caeea3f97506": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/tetrascience/scientific-data-architect-germany-expression-of-interest-dusseldorf-260904",
+    "title": "Scientific Data Architect - Germany Expression of interest",
+    "company": "Tetrascience"
+  },
+  "161f8346ea29ef2d2d0d": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/tetrascience/scientific-data-architect-germany-expression-of-interest-darmstadt-440802",
+    "title": "Scientific Data Architect - Germany Expression of interest",
+    "company": "Tetrascience"
+  },
+  "edca4acea32951b85777": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/tetrascience/scientific-data-architect-germany-expression-of-interest-frankfurt-am-main-457514",
+    "title": "Scientific Data Architect - Germany Expression of interest",
+    "company": "Tetrascience"
+  },
+  "0b9add7f7bf5099d3df4": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/we-are-social-1/senior-konzepterin-berlin-185161",
+    "title": "Senior Konzepter:in (m/w/d)",
+    "company": "We Are Social 1"
+  },
+  "11ad3d9788f3e3ce447e": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/we-are-social-1/senior-konzepterin-munich-370652",
+    "title": "Senior Konzepter:in (m/w/d)",
+    "company": "We Are Social 1"
+  },
+  "2d8c367203687a7043d5": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/dmrz/strategy-manager-krankentransport-business-development-go-to-market-healthcare-saas-dusseldorf-159497",
+    "title": "Strategy Manager Krankentransport (m/w/d) – Business Development & Go-to-Market, Healthcare SaaS",
+    "company": "DMRZ"
+  },
+  "28b22a1caaa7b491b65b": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/dmrz/junior-sales-manager-pflegesoftware-healthcare-saas-dusseldorf-442653",
+    "title": "Junior Sales Manager (m/w/d) - Pflegesoftware / Healthcare SaaS",
+    "company": "DMRZ"
+  },
+  "b21962ad138c72a69860": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/dmrz/customer-support-heilmittelsoftware-healthcare-saas-dusseldorf-243377",
+    "title": "Customer Support (m/w/d) – Heilmittelsoftware / Healthcare SaaS",
+    "company": "DMRZ"
+  },
+  "dfce82c44a8b7540a625": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/jtl-software-gmbh/senior-talent-acquisition-manager-home-office-berlin-122759",
+    "title": "Senior Talent Acquisition Manager (w/m/d)",
+    "company": "JTL-Software-GmbH"
+  },
+  "cbb6795c4dbb1c2e6bbb": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/wolt-english/product-manager-courier-delivery-experience-berlin-471911",
+    "title": "Product Manager, Courier Delivery Experience",
+    "company": "Wolt - English"
+  },
+  "4acb90ef67c0e91bafdd": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/taxtalentede/steuerberater-in-mainz-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-408178",
+    "title": "Steuerberater (m/w/d) in Mainz, auf Wunsch mit Partnerperspektive, gesucht - mindestens 90.000€",
+    "company": "Taxtalente.de"
+  },
+  "84c60fe18db84dfe6878": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/taxtalentede/steuerberater-in-dossenheim-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-445013",
+    "title": "Steuerberater (m/w/d) in Dossenheim, auf Wunsch mit Partnerperspektive, gesucht - mindestens 90.000€",
+    "company": "Taxtalente.de"
+  },
+  "6efb789aed4cba8e1865": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/taxtalentede/steuerberater-in-vetschau-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-461970",
+    "title": "Steuerberater (m/w/d) in Vetschau, auf Wunsch mit Partnerperspektive, gesucht - mindestens 90.000€",
+    "company": "Taxtalente.de"
+  },
+  "11536a53343a228f8732": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/taxtalentede/steuerberater-in-neuss-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-360767",
+    "title": "Steuerberater (m/w/d) in Neuss, auf Wunsch mit Partnerperspektive, gesucht - mindestens 90.000€",
+    "company": "Taxtalente.de"
+  },
+  "0955d3a42bd10144510a": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/taxtalentede/steuerberater-in-bad-birnbach-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-277245",
+    "title": "Steuerberater (m/w/d) in Bad Birnbach, auf Wunsch mit Partnerperspektive, gesucht - mindestens 90.000€",
+    "company": "Taxtalente.de"
+  },
+  "25886e74a9f1adc84fc9": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/taxtalentede/steuerberater-in-neustadt-am-rubenberge-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-265862",
+    "title": "Steuerberater (m/w/d) in Neustadt am Rübenberge, auf Wunsch mit Partnerperspektive, gesucht - mindestens 90.000€",
+    "company": "Taxtalente.de"
+  },
+  "7891abd9455582860af6": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/taxtalentede/steuerberater-in-rheinmunster-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-267546",
+    "title": "Steuerberater (m/w/d) in Rheinmünster, auf Wunsch mit Partnerperspektive, gesucht - mindestens 90.000€",
+    "company": "Taxtalente.de"
+  },
+  "675af1aa2320537132dd": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/taxtalentede/steuerberater-in-sasbach-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-223737",
+    "title": "Steuerberater (m/w/d) in Sasbach, auf Wunsch mit Partnerperspektive, gesucht - mindestens 90.000€",
+    "company": "Taxtalente.de"
+  },
+  "a9d93d63b21b78801260": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/dept/senior-copywriter-freelance-berlin-346044",
+    "title": "Senior Copywriter (Freelance)",
+    "company": "dept"
+  },
+  "e9edb593f0388be6c947": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/dept/senior-copywriter-5-month-ftc-berlin-337385",
+    "title": "Senior Copywriter (5 month FTC)",
+    "company": "dept"
+  },
+  "391cef52960db1fa4d2e": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/mercedes-benzio-gmbh/remote-people-ops-partner-working-student-stuttgart-107754",
+    "title": "People Ops Partner - Working Student (f/m/x)",
+    "company": "Mercedes-Benz.io GmbH"
+  },
+  "37db74ca69dd29d0307b": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/flight-control-automation-engineer-gilching-223927",
+    "title": "Flight Control Automation Engineer (m/f/d)",
+    "company": "Quantum-Systems GmbH"
+  },
+  "6aea807dffc40b71f81c": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/development-engineer-production-focus-software-gilching-395919",
+    "title": "Development Engineer Production – Focus Software (f/m/d)",
+    "company": "Quantum-Systems GmbH"
+  },
+  "5f292a5ceb4fbf355879": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/impossiblecloud/go-to-market-champion-gpu-ai-hamburg-210882",
+    "title": "Go-to-Market Champion (GPU & AI)",
+    "company": "Impossiblecloud"
+  },
+  "c70804c21a1ea624d3c3": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/impossiblecloud/go-to-market-engineer-revops-engineer-hamburg-419698",
+    "title": "Go to Market Engineer / RevOps Engineer",
+    "company": "Impossiblecloud"
+  },
+  "a68c846a4fbe76d5c801": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/proliance/senior-channel-partner-manager-munchen-182057",
+    "title": "(Senior) Channel Partner Manager (w/m/d)",
+    "company": "Proliance"
+  },
+  "97746742e4e0d0961b00": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/proliance/senior-accountant-munchen-449015",
+    "title": "(Senior) Accountant (w/m/d)",
+    "company": "Proliance"
+  },
+  "1ec27e07fa3a651b2165": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/pigment/mid-market-account-executive-dach-frankfurt-476401",
+    "title": "Mid-Market Account Executive (x/f/m) - DACH",
+    "company": "Pigment"
+  },
+  "e5d45c368ae76bc4e903": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/hellofresh/senior-rd-chef-all-genders-verden-niedersachsen-406584",
+    "title": "Senior R&D Chef (all genders)",
+    "company": "hellofresh"
+  },
+  "51b8c72b3f76101566bb": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/hellofresh/senior-product-manager-ii-menu-planning-all-genders-berlin-berlin-341246",
+    "title": "Senior Product Manager II, Menu Planning (all genders)",
+    "company": "hellofresh"
+  },
+  "426f5dfa8fe1919719fc": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/hellofresh/senior-product-designer-new-ventures-berlin-berlin-382449",
+    "title": "Senior Product Designer, New Ventures (f/m/x)",
+    "company": "hellofresh"
+  },
+  "50a206c5b0e94e2425ea": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/remotecom/remote-senior-manager-sales-account-management-424654",
+    "title": "Senior Manager, Sales - Account Management",
+    "company": "remotecom"
+  },
+  "5062b7d439bd467a3415": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/remotecom/remote-senior-manager-sales-account-management-388165",
+    "title": "Senior Manager, Sales - Account Management",
+    "company": "remotecom"
+  },
+  "f251eb7e69e852fcdfab": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/remotecom/remote-senior-account-manager-emea-315190",
+    "title": "Senior Account Manager - EMEA",
+    "company": "remotecom"
+  },
+  "af8e0255fe53b10941cb": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/n8n/senior-frontend-platform-engineer-berlin-249395",
+    "title": "Senior Frontend Platform Engineer",
+    "company": "N8N"
+  },
+  "7049b6717978e7715521": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/qwelloeu/senior-backend-engineer-munich-bavaria-355652",
+    "title": "Senior Backend Engineer",
+    "company": "Qwello.eu"
+  },
+  "aa653985097540a7218e": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/finn/werkstudentin-customer-service-germany-146130",
+    "title": "Werkstudent:in Customer Service (m/w/d)",
+    "company": "FINN"
+  },
+  "14132c9ed125786a4554": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/soda-data-nv/remote-senior-full-stack-engineer-backend-frontend-germany-4455",
+    "title": "Senior Full-Stack Engineer (Backend + Frontend)",
+    "company": "Soda Data Nv"
+  },
+  "2986ebbeab6ebdc5d9b0": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/soda-data-nv/remote-senior-frontend-engineer-full-stack-germany-476687",
+    "title": "Senior Frontend Engineer (Full-stack)",
+    "company": "Soda Data Nv"
+  },
+  "552ce7f22b78fcf040bc": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/soda-data-nv/remote-senior-backend-infrastructure-engineer-platform-germany-203231",
+    "title": "Senior Backend + Infrastructure Engineer (Platform)",
+    "company": "Soda Data Nv"
+  },
+  "4c0f879d0a3d917549f4": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/everbrent-gmbh/werkstudent-e-commerce-marketplace-koln-412237",
+    "title": "Werkstudent e-Commerce & Marketplace (m/w/d)",
+    "company": "Everbrent GmbH"
+  },
+  "723486354e468d3ed734": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/everbrent-gmbh/software-entwickler-koln-204650",
+    "title": "Software-Entwickler (m/w/d)",
+    "company": "Everbrent GmbH"
+  },
+  "b38a9605eea258924e2d": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/tanium/remote-director-partner-solution-architecture-428548",
+    "title": "Director, Partner Solution Architecture",
+    "company": "tanium"
+  },
+  "b9a0e3a2debdb47d5870": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/veeamsoftware/senior-sales-engineer-hamburg-134",
+    "title": "Senior Sales Engineer",
+    "company": "Veeamsoftware"
+  },
+  "8e04394da997916e9a19": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/cmbluenergyag/software-engineer-all-genders-batteriesysteme-plattformen-alzenau-bavaria-377783",
+    "title": "Software Engineer (all genders) – Batteriesysteme & Plattformen",
+    "company": "Cmbluenergyag"
+  },
+  "aedb71519e361e604fa6": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/cmbluenergyag/senior-electrical-design-engineer-all-genders-alzenau-bavaria-37502",
+    "title": "Senior Electrical Design Engineer (all genders)",
+    "company": "Cmbluenergyag"
+  },
+  "f1f674af5d0587b2aa05": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/cmbluenergyag/automation-engineer-all-genders-alzenau-bavaria-192069",
+    "title": "Automation Engineer (all genders)",
+    "company": "Cmbluenergyag"
+  },
+  "57aa945529ca3cc40ba7": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/almedia/junior-engineer-ai-berlin-151047",
+    "title": "Junior Engineer (AI)",
+    "company": "Almedia"
+  },
+  "587ae3547bc72bba64c4": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/almedia/qa-lead-berlin-311918",
+    "title": "QA Lead",
+    "company": "Almedia"
+  },
+  "50e13008071600997ca6": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/lio/webflow-visual-specialist-all-genders-munich-131643",
+    "title": "Webflow & Visual Specialist (all genders)",
+    "company": "Lio"
+  },
+  "5b238354105f59f7887a": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/lio/web-visual-designer-all-genders-munich-148875",
+    "title": "Web & Visual Designer (all genders)",
+    "company": "Lio"
+  },
+  "05baad58268adef7305a": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/lio/web-visual-designer-all-genders-munich-9849",
+    "title": "Web & Visual Designer (all genders)",
+    "company": "Lio"
+  },
+  "65c5edb1d185888fd7e4": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/lio/site-reliability-engineer-sre-munich-455998",
+    "title": "Site Reliability Engineer (SRE) (m/w/d)",
+    "company": "Lio"
+  },
+  "8dc06a478a462065f16a": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/lio/python-web-crawler-punchout-integration-engineer-munich-493886",
+    "title": "Python Web Crawler & PunchOut Integration Engineer (m/w/d)",
+    "company": "Lio"
+  },
+  "a0cb7f6acb1c3a71b5c8": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/checkoutcom/manager-sales-berlin-118995",
+    "title": "Manager, Sales",
+    "company": "Checkout.com"
+  },
+  "2bcf976e8e8dd1caec08": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/everdrop-gmbh/industrial-product-designer-engineer-home-accessories-munchen-420324",
+    "title": "Industrial Product Designer & Engineer – Home Accessories (m/w/d)",
+    "company": "everdrop GmbH"
+  },
+  "a156d25f800c2fb57d6e": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/people-places-performance/recruiter-freelance-baierbrunn-229061",
+    "title": "Recruiter freelance",
+    "company": "People Places Performance"
+  },
+  "9702a04c972e657a2be2": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/tulip/ecosystem-engineer-working-student-munich-123576",
+    "title": "Ecosystem Engineer Working Student",
+    "company": "Tulip"
+  },
+  "68ea60ccf449fe0586e6": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/affinidi/senior-product-manager-technical-berlin-66572",
+    "title": "Senior Product Manager, Technical (m/f/d)",
+    "company": "affinidi"
+  },
+  "65e1b5d9f094756d22c2": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/salonkee/teamleiter-sales-dortmund-essen-485365",
+    "title": "Teamleiter Sales Dortmund",
+    "company": "Salonkee"
+  },
+  "b7aacbe56c3966a6ffe9": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/yepoda/customer-care-community-manager-italian-spanish-berlin-44268",
+    "title": "Customer Care & Community Manager - Italian & Spanish (m/f/d)",
+    "company": "Yepoda"
+  },
+  "1f2556ef67f0dea95cfa": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/yepoda/creative-operations-intern-berlin-264346",
+    "title": "Creative Operations Intern (m/f/d)",
+    "company": "Yepoda"
+  },
+  "a1fd64aaf77afc898e42": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/yepoda/key-account-manager-sephora-eu-berlin-138306",
+    "title": "Key Account Manager (Sephora EU) (m/f/d)",
+    "company": "Yepoda"
+  },
+  "e31ecb45cd24a38b3eb5": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-head-of-music-83455",
+    "title": "Head of Music",
+    "company": "Elevenlabs"
+  },
+  "f36cf75e0f2e56bfd3bb": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-account-executive-nordics-enterprise-331489",
+    "title": "Account Executive - Nordics - Enterprise",
+    "company": "Elevenlabs"
+  },
+  "83bd68ed3fa084af1ac4": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/voize/freelance-backend-engineer-kotlin-berlin-134",
+    "title": "Freelance Backend Engineer - Kotlin (m/f/d)",
+    "company": "Voize"
+  },
+  "a8afe6479499a32e746d": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/leapsome/sales-development-representative-outbound-german-speaking-berlin-450245",
+    "title": "Sales Development Representative Outbound (d/f/m) - German-speaking",
+    "company": "Leapsome"
+  },
+  "1235788109266bd1dc3b": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/leapsome/gtm-enablement-manager-berlin-150318",
+    "title": "GTM Enablement Manager (d/f/m)",
+    "company": "Leapsome"
+  },
+  "6291d555bf46fba93004": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/leapsome/customer-onboarding-manager-german-speaking-berlin-126094",
+    "title": "Customer Onboarding Manager (d/f/m) - German-speaking",
+    "company": "Leapsome"
+  },
+  "c24ea3b7840167414c83": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/leapsome/account-executive-smb-german-speaking-berlin-490993",
+    "title": "Account Executive (SMB) (d/f/m) - German-speaking",
+    "company": "Leapsome"
+  },
+  "05ca2043a6ec4d99688f": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/leapsome/account-executive-high-velocity-german-speaking-berlin-260577",
+    "title": "Account Executive (High-Velocity) (d/f/m) - German-speaking",
+    "company": "Leapsome"
+  },
+  "3d56931b18526476c54c": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/eye-security/account-executive-germany-berlin-110408",
+    "title": "Account Executive Germany (m/f/x)",
+    "company": "Eye Security"
+  },
+  "a6f6d53af52eec444e77": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/people-places-performance/freelance-recruiterin-baierbrunn-184594",
+    "title": "Freelance Recruiter:in",
+    "company": "People Places Performance"
+  },
+  "bc12037e02a7ea3fc7f2": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/polytalent-gmbh/fachkraft-lagerlogistik-lagerist-mit-teamleiter-perspektive-reinbek-52230",
+    "title": "Fachkraft Lagerlogistik / Lagerist mit Teamleiter-Perspektive (m/w/d)",
+    "company": "PolyTALENT GmbH"
+  },
+  "fd9f26e7facd7069f233": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/invesdor/werkstudentin-marketing-in-berlin-invesdor-berlin-249114",
+    "title": "Werkstudent:in Marketing (m/w/d) in Berlin",
+    "company": "Invesdor"
+  },
+  "9362077c7d747fc58cc4": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/aampere/product-engineer-at-e-mobility-startup-munchen-181003",
+    "title": "Product Engineer (m/f/x) @ E-Mobility Startup",
+    "company": "Aampere"
+  },
+  "497f9e0014dcb6e17afa": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/aampere/intern-to-the-chief-of-staff-at-e-mobility-startup-munchen-455640",
+    "title": "Intern to the Chief of Staff (m/f/x) @ E-Mobility Startup",
+    "company": "Aampere"
+  },
+  "c2c408baf02e6cd6d232": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/aampere/head-of-engineering-at-e-mobility-startup-munchen-19317",
+    "title": "Head of Engineering (m/f/x) @ E-Mobility Startup",
+    "company": "Aampere"
+  },
+  "56eb2153b79742ccbf86": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/aampere/founding-engineer-at-e-mobility-startup-munchen-187338",
+    "title": "Founding Engineer (m/f/x) @ E-Mobility Startup",
+    "company": "Aampere"
+  },
+  "a87ea52b01d692625fa1": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/vivid/new-business-account-executive-dach-market-berlin-360190",
+    "title": "New Business Account Executive (DACH market)",
+    "company": "Vivid"
+  },
+  "aaa371f94a1004c5ec7c": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/snke/solution-consultant-snke-data-munchen-273597",
+    "title": "Solution Consultant – Snke Data",
+    "company": "Snke"
+  },
+  "bbdf0c43f578d9c9c2b8": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/conceptboard/remote-staff-software-engineer-116557",
+    "title": "Staff Software Engineer (m/w/d)",
+    "company": "Conceptboard"
+  },
+  "d0b3b22dabb849526014": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/conceptboard/remote-senior-software-engineer-350992",
+    "title": "Senior Software Engineer (m/w/d)",
+    "company": "Conceptboard"
+  },
+  "b633670b4785fb5fb7c0": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/conceptboard/remote-engineering-manager-45120",
+    "title": "Engineering Manager (m/w/d)",
+    "company": "Conceptboard"
+  },
+  "ebcc992b77ace988f80c": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/conceptboard/remote-account-executive-enterprise-261052",
+    "title": "Account Executive Enterprise (m/w/d)",
+    "company": "Conceptboard"
+  },
+  "7c3aa5e073c293d14841": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/sonatype/remote-account-executive-velocity-422593",
+    "title": "Account Executive, Velocity",
+    "company": "Sonatype"
+  },
+  "372456346400c78447d5": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/aircall/account-executive-dach-market-berlin-office-149003",
+    "title": "Account Executive , DACH market",
+    "company": "Aircall"
+  },
+  "6dd6d7e6f22d7b4428bc": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/wasteside-gmbh/projektmanagerin-innovation-lead-hanover-164230",
+    "title": "Projektmanager:in / Innovation Lead (m/w/d)",
+    "company": "WasteSide GmbH"
+  },
+  "ee43702109dcbcc41278": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/intrinsicrobotics/fullstack-software-engineer-perception-experience-munich-489530",
+    "title": "Fullstack Software Engineer, Perception Experience",
+    "company": "intrinsicrobotics"
+  },
+  "4bd1731d95c333678ab3": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/cognite/solution-architect-443339",
+    "title": "Solution Architect",
+    "company": "Cognite"
+  },
+  "69056a4389bacfd9457c": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/4lu44n1n37w012k/senior-category-manager-indirect-procurement-capex-all-genders-berlin-berlin-24815",
+    "title": "Senior Category Manager Indirect Procurement CapEx (All genders)",
+    "company": "4lu44n1n37w012k"
+  },
+  "9b66a249e026cd86acc9": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/fanaticscollectibles/senior-manager-dach-region-live-collect-frankfurt-am-main-491564",
+    "title": "Senior Manager, DACH Region - Live & Collect",
+    "company": "Fanaticscollectibles"
+  },
+  "1ef62e037f6d81359de7": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/superchat/recruiting-working-student-werkstudentin-berlin-berlin-124274",
+    "title": "Recruiting Working Student | Werkstudent*in (m/w/d)",
+    "company": "Superchat"
+  },
+  "ede2d67a24de2b803e1a": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-account-executive-nordics-enterprise-444760",
+    "title": "Account Executive - Nordics - Enterprise",
+    "company": "ElevenLabs"
+  },
+  "b47e8ccdce30e5a23dd4": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/hexa/remote-forward-deployed-engineer-3110",
+    "title": "Forward Deployed Engineer",
+    "company": "Hexa"
+  },
+  "743ed2b6dee8ff27b109": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/vrey/junior-energy-data-scientist-energiedaten-automatisierung-msb-berlin-71106",
+    "title": "(Junior) Energy Data Scientist – Energiedaten & Automatisierung (MSB) (m/w/d)",
+    "company": "Vrey"
+  },
+  "a253cf5093d7371ac283": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/andres-industries-ag/programmierer-mwd-technischer-informatiker-berlin-40257",
+    "title": "Programmierer (m,w,d) / Technischer Informatiker (m/w/d)",
+    "company": "Andres Industries AG"
+  },
+  "78120ddce6e1c95d0656": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/andres-industries-ag/senior-programmierer-informatiker-fur-embedded-controller-berlin-13308",
+    "title": "Senior Programmierer (m/w/d) / Informatiker für Embedded Controller (m/w/d)",
+    "company": "Andres Industries AG"
+  },
+  "2c204429f32eef252437": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/andres-industries-ag/werkstudent-programmierer-firmware-embedded-berlin-192246",
+    "title": "Werkstudent Programmierer Firmware/Embedded (m/w/d)",
+    "company": "Andres Industries AG"
+  },
+  "291d19d3fa1bb803bc9a": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/andres-industries-ag/werkstudent-elektronik-elektrotechnik-berlin-198577",
+    "title": "Werkstudent Elektronik / Elektrotechnik (m/w/d)",
+    "company": "Andres Industries AG"
+  },
+  "336015c1f72feb38e35d": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/andres-industries-ag/werkstudent-anwendungsentwicklung-digitalisierung-berlin-168666",
+    "title": "Werkstudent Anwendungsentwicklung & Digitalisierung (m/w/d)",
+    "company": "Andres Industries AG"
+  },
+  "c13c39a3822bf5cb0369": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/evolve-digital-gmbh/senior-performance-marketing-manager-paid-social-meta-tiktok-remote-330304",
+    "title": "Senior Performance Marketing Manager Paid Social – Meta & TikTok (m/w/d) · Remote",
+    "company": "Evolve Digital GmbH"
+  },
+  "147f648b1ec277d43ca9": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/andres-industries-ag/werkstudenten-im-bereich-vertriebsunterstutzung-berlin-417050",
+    "title": "Werkstudenten im Bereich Vertriebsunterstützung (m/w/d)",
+    "company": "Andres Industries AG"
+  },
+  "8de90ef797f533e6c37c": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/avomind/business-development-director-germany-berlin-152474",
+    "title": "Business Development Director - Germany",
+    "company": "Avomind"
+  },
+  "3991520de6dd375f4c0a": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/reflex-aerospace-gmbh/talent-acquisition-managerin-all-genders-berlin-345340",
+    "title": "Talent Acquisition Manager:in (all genders)",
+    "company": "Reflex Aerospace Gmbh"
+  },
+  "14b451176704130a940f": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/teliogroup/werkstudent-rechtsabteilung-working-student-legal-hamburg-134184",
+    "title": "Werkstudent Rechtsabteilung / Working Student Legal (m/w/d)",
+    "company": "Teliogroup"
+  },
+  "e8845baae3d317a82388": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/teliogroup/werkstudent-im-bereich-konzernrechnungswesen-und-konsolidierung-working-student-group-accounting-consolidation-hamburg-203969",
+    "title": "Werkstudent im Bereich Konzernrechnungswesen und Konsolidierung / Working Student Group Accounting & Consolidation (m/w/d)",
+    "company": "Teliogroup"
+  },
+  "ca0fd33fd2118d5bf209": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/teliogroup/senior-project-manager-hamburg-360002",
+    "title": "Senior Project Manager (m/w/d)",
+    "company": "Teliogroup"
+  },
+  "b369011cabdae65641de": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/controller-gilching-51641",
+    "title": "Controller (m/w/d)",
+    "company": "MY Humancapital GmbH"
+  },
+  "b6f04ede41351806da2e": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/technischer-redakteur-ersatzteildokumentation-munich-74375",
+    "title": "Technischer Redakteur Ersatzteildokumentation (m/w/d)",
+    "company": "MY Humancapital GmbH"
+  },
+  "ef8c1c7165f26da2315d": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/haustechniker-magdeburg-413230",
+    "title": "Haustechniker (m/w/d) Magdeburg",
+    "company": "MY Humancapital GmbH"
+  },
+  "b3ffaa0094d1913bc466": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/telefonischer-kundenberater-b2b-vertrieb-munich-277053",
+    "title": "Telefonischer Kundenberater B2B Vertrieb (m/w/d)",
+    "company": "MY Humancapital GmbH"
+  },
+  "14c436dc26574f3840fc": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/debitorenbuchhalter-munich-475192",
+    "title": "Debitorenbuchhalter (m/w/d)",
+    "company": "MY Humancapital GmbH"
+  },
+  "2fa32964f47ebfb33173": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/hausmeister-potsdam-338379",
+    "title": "Hausmeister (m/w/d) Potsdam",
+    "company": "MY Humancapital GmbH"
+  },
+  "4e117db15ceffc22e8a0": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/software-consultant-net-munich-107836",
+    "title": "Software Consultant .NET (m/w/d)",
+    "company": "MY Humancapital GmbH"
+  },
+  "a104af5bb04b9f9e8782": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/personalreferent-hr-administration-kassel-196017",
+    "title": "Personalreferent HR Administration (m/w/d)",
+    "company": "MY Humancapital GmbH"
+  },
+  "5c5c544854d5d2f98540": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/qualitatsprufer-wareneingang-munich-1831",
+    "title": "Qualitätsprüfer Wareneingang (m/w/d)",
+    "company": "MY Humancapital GmbH"
+  },
+  "133d79372ae235c2c050": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/it-projektmanager-softwareentwicklung-munich-260825",
+    "title": "IT Projektmanager Softwareentwicklung (m/w/d)",
+    "company": "MY Humancapital GmbH"
+  },
+  "61731120c80e0285d285": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/telefonischer-kundenberater-munich-432027",
+    "title": "Telefonischer Kundenberater (m/w/d)",
+    "company": "MY Humancapital GmbH"
+  },
+  "d51937be2be986f6474c": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/techniker-instandhaltung-halbleiterfertigung-dresden-462708",
+    "title": "Techniker Instandhaltung Halbleiterfertigung (m/w/d)",
+    "company": "MY Humancapital GmbH"
+  },
+  "43b38a2af48ac50a28be": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/auftragskoordinator-produktionsplanung-munich-9717",
+    "title": "Auftragskoordinator Produktionsplanung (m/w/d)",
+    "company": "MY Humancapital GmbH"
+  },
+  "5f24b76f49d8dd395442": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/technischer-sachbearbeiter-disposition-wangen-im-allgau-379021",
+    "title": "Technischer Sachbearbeiter Disposition (m/w/d)",
+    "company": "MY Humancapital GmbH"
+  },
+  "74bd3a8fd1c6692dfe13": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/it-support-specialist-2nd-level-munich-364654",
+    "title": "IT Support Specialist 2nd Level (m/w/d)",
+    "company": "MY Humancapital GmbH"
+  },
+  "938abb95e7e5ec0815c3": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/haustechniker-gebaudemanagement-munich-112946",
+    "title": "Haustechniker Gebäudemanagement (m/w/d)",
+    "company": "MY Humancapital GmbH"
+  },
+  "b57b7ba87a92f6ede09f": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/sap-inhouse-consultant-business-partner-munich-324698",
+    "title": "SAP Inhouse Consultant Business Partner (m/w/d)",
+    "company": "MY Humancapital GmbH"
+  },
+  "8d19a8299a7b4d5d1031": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/senior-full-stack-java-entwickler-munich-326685",
+    "title": "(Senior) Full Stack Java Entwickler (m/w/d)",
+    "company": "MY Humancapital GmbH"
+  },
+  "de6be6f7bc525d6d2555": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/softwareentwickler-c-qt-munich-275902",
+    "title": "Softwareentwickler C++ / Qt",
+    "company": "MY Humancapital GmbH"
+  },
+  "4de14e52ffaf87b84917": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/personalreferent-hr-administration-arbeitnehmeruberlassung-munich-309915",
+    "title": "Personalreferent HR Administration & Arbeitnehmerüberlassung (m/w/d)",
+    "company": "MY Humancapital GmbH"
+  },
+  "270d655ddca6762447fe": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/personalreferent-munich-25678",
+    "title": "Personalreferent (m/w/d)",
+    "company": "MY Humancapital GmbH"
+  },
+  "1b5d0f548589cf8c4a70": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/kundenbetreuer-immobilienverwaltung-munich-149956",
+    "title": "Kundenbetreuer Immobilienverwaltung (m/w/d)",
+    "company": "MY Humancapital GmbH"
+  },
+  "6c43d4cbf5d1eff29707": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/haustechniker-gebaudetechnik-munich-417423",
+    "title": "Haustechniker Gebäudetechnik (m/w/d)",
+    "company": "MY Humancapital GmbH"
+  },
+  "ab725faa57fdbf2bf6a4": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/sachbearbeiter-controlling-und-finanzen-munich-309165",
+    "title": "Sachbearbeiter Controlling und Finanzen (m/w/d)",
+    "company": "MY Humancapital GmbH"
+  },
+  "2f8573989cd037a652ce": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/berechnungsingenieur-strukturanalyse-munich-125985",
+    "title": "Berechnungsingenieur Strukturanalyse (m/w/d)",
+    "company": "MY Humancapital GmbH"
+  },
+  "25a7ab1adbaee11cc35f": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/sachbearbeiter-customer-service-und-kundenbetreuung-munich-386571",
+    "title": "Sachbearbeiter Customer Service und Kundenbetreuung (m/w/d)",
+    "company": "MY Humancapital GmbH"
+  },
+  "3205b5ac5e5858a74700": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/kreditorenbuchhalter-sap-munich-323191",
+    "title": "Kreditorenbuchhalter SAP (m/w/d)",
+    "company": "MY Humancapital GmbH"
+  },
+  "823a6ac3e29890d64619": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/kreditsachbearbeiter-munich-27844",
+    "title": "Kreditsachbearbeiter (m/w/d)",
+    "company": "MY Humancapital GmbH"
+  },
+  "b68ef92097941516118f": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/controller-im-offentlichen-dienst-munich-454887",
+    "title": "Controller (m/w/d) im öffentlichen Dienst",
+    "company": "MY Humancapital GmbH"
+  },
+  "8e7ef784f6906a6f4481": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/it-projektmanager-software-implementierung-munich-192336",
+    "title": "IT Projektmanager Software Implementierung (m/w/d)",
+    "company": "MY Humancapital GmbH"
+  },
+  "6e6a45df160c6065f698": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/projektleiter-simulationssysteme-munich-270420",
+    "title": "Projektleiter (m/w/d) Simulationssysteme",
+    "company": "MY Humancapital GmbH"
+  },
+  "4a7b659fec957e6d88ca": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/vergabemanager-offentliche-ausschreibung-munich-163218",
+    "title": "Vergabemanager (m/w/d) Öffentliche Ausschreibung",
+    "company": "MY Humancapital GmbH"
+  },
+  "d8a77d8f72d042a89919": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/anlagenbuchhalter-assetmanagement-munich-382725",
+    "title": "Anlagenbuchhalter (m/w/d) Assetmanagement",
+    "company": "MY Humancapital GmbH"
+  },
+  "e0e0b5b65e3f09e72b5b": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/bauingenieur-projektmanagement-minden-496550",
+    "title": "Bauingenieur (m/w/d) - Projektmanagement",
+    "company": "MY Humancapital GmbH"
+  },
+  "5c8da89127ee1e72b707": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/technischer-objektverwalter-stuttgart-473630",
+    "title": "Technischer Objektverwalter (m/w/d)",
+    "company": "MY Humancapital GmbH"
+  },
+  "e51d7c8c74b31be92d1e": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/technischer-property-manager-munich-413783",
+    "title": "Technischer Property Manager (m/w/d)",
+    "company": "MY Humancapital GmbH"
+  },
+  "011a5d7677816dac98ce": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/objektverwalter-facility-management-munich-357354",
+    "title": "Objektverwalter Facility Management (m/w/d)",
+    "company": "MY Humancapital GmbH"
+  },
+  "6c3215292536942a28d9": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/projektcontroller-munich-296216",
+    "title": "Projektcontroller (m/w/d)",
+    "company": "MY Humancapital GmbH"
+  },
+  "79fdc0d6bb42a282ef19": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/strategischer-projektentwickler-erfurt-45914",
+    "title": "Strategischer Projektentwickler (m/w/d)",
+    "company": "MY Humancapital GmbH"
+  },
+  "0e1b4111a4a0c1374440": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/novatera-gmbh/head-of-accounting-controlling-ulm-69235",
+    "title": "Head of Accounting & Controlling (m/w/d)",
+    "company": "Novatera GmbH"
+  },
+  "7edf86a63844fb67b4b0": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/sachbearbeiter-finanzen-verwaltungsfachkraft-munich-259293",
+    "title": "Sachbearbeiter Finanzen / Verwaltungsfachkraft (m/w/d)",
+    "company": "MY Humancapital GmbH"
+  },
+  "7b494f3b5aeb685b8c41": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/verwaltungsfachwirt-sachbearbeiter-finanzwesen-munich-47455",
+    "title": "Verwaltungsfachwirt / Sachbearbeiter Finanzwesen (m/w/d)",
+    "company": "MY Humancapital GmbH"
+  },
+  "a7b5f24c2e59d01b5e53": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/techniker-systemintegration-mechatronik-munich-458499",
+    "title": "Techniker Systemintegration / Mechatronik (m/w/d)",
+    "company": "MY Humancapital GmbH"
+  },
+  "2a6b2c06f9be821c1c46": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/vertriebscontroller-im-bankenumfeld-munich-330630",
+    "title": "Vertriebscontroller im Bankenumfeld (m/w/d)",
+    "company": "MY Humancapital GmbH"
+  },
+  "c313e9c6ca1703d9656c": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/kundenberater-private-banking-munich-196401",
+    "title": "Kundenberater Private Banking (m/w/d)",
+    "company": "MY Humancapital GmbH"
+  },
+  "6f9dab3d0b27c5ebf8af": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/k-tronik-gmbh/software-test-engineer-sichere-kommunikation-dresden-351487",
+    "title": "Software Test Engineer (m/w/x) - Sichere Kommunikation",
+    "company": "K-tronik GmbH"
+  },
+  "de33e06615b98d3b780a": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/naturbummler-gmbh/grafikdesign-praktikantin-start-up-outdoor-mannheim-66428",
+    "title": "Grafikdesign Praktikant:in (m/w/d) | Start-Up | Outdoor",
+    "company": "Naturbummler GmbH"
+  },
+  "13dd53556b5d73d7bf40": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/imago-stock-people-gmbh/head-of-product-platform-growth-berlin-347574",
+    "title": "Head of Product - Platform Growth (f/m/d)",
+    "company": "imago stock & people GmbH"
+  },
+  "d7cc2901305775a6385f": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/immo-marketer/werkstudent-in-finanzbuchhaltung-schwerpunkt-forderungsmanagement-bochum-15504",
+    "title": "Werkstudent/-in (m/w/d) Finanzbuchhaltung (Schwerpunkt Forderungsmanagement)",
+    "company": "Immo-Marketer"
+  },
+  "a404ae31c213ceaa66dc": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/indumera-gmbh/senior-consultant-herford-336231",
+    "title": "Senior Consultant (m/w/d)",
+    "company": "INDUMERA GmbH"
+  },
+  "314657582713eef47b65": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/immo-marketer/werkstudent-in-in-der-telefonischen-immobilienberatung-20-stunden-woche-bochum-99142",
+    "title": "Werkstudent/-in (m/w/d) in der telefonischen Immobilienberatung (20 Stunden / Woche)",
+    "company": "Immo-Marketer"
+  },
+  "0aabdd60051325879e44": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/indumera-gmbh/senior-online-marketing-manager-herford-365556",
+    "title": "Senior Online Marketing Manager (m/w/d)",
+    "company": "INDUMERA GmbH"
+  },
+  "dccc385419e7f497cc02": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/intermin-recruiter-munich-446104",
+    "title": "Intermin Recruiter (m/w/d)",
+    "company": "MY Humancapital GmbH"
+  },
+  "fa8743593bda54baaeec": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/itconfigall-gmbh/systemadministrator-ms-windows-client-server-1440-leipzig-398459",
+    "title": "Systemadministrator MS Windows Client/ Server (m/w/d) - 1440",
+    "company": "ITconfig/all GmbH"
+  },
+  "4e5d27a9c5d629b2f439": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/thinkcellsoftware/junior-talent-acquisition-manager-384263",
+    "title": "Junior Talent Acquisition Manager (f/m/d)",
+    "company": "thinkcellsoftware"
+  },
+  "57a95fa461f05566a090": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/remotecom/senior-mobility-specialist-immigration-lawyer-235056",
+    "title": "Senior Mobility Specialist - Immigration Lawyer",
+    "company": "remotecom"
+  },
+  "16130fefe3c4bec88a2d": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/remotecom/senior-hr-lifecycle-specialist-employee-relations-and-transitions-emea-hrbp-306203",
+    "title": "Senior HR Lifecycle Specialist, Employee Relations and Transitions - EMEA (HRBP)",
+    "company": "remotecom"
+  },
+  "43d484ebf9b44450c10a": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/remotecom/senior-hr-lifecycle-specialist-employee-relations-and-transitions-emea-hrbp-425144",
+    "title": "Senior HR Lifecycle Specialist, Employee Relations and Transitions - EMEA (HRBP)",
+    "company": "remotecom"
+  },
+  "0b72a33e662f2f7e8f24": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/remotecom/senior-hr-lifecycle-specialist-employee-relations-and-transitions-emea-hrbp-64254",
+    "title": "Senior HR Lifecycle Specialist, Employee Relations and Transitions - EMEA (HRBP)",
+    "company": "remotecom"
+  },
+  "71f6c4fc3ec9d49b1760": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/sonyinteractiveentertainmentglobal/software-engineer-i-berlin-393990",
+    "title": "Software Engineer I",
+    "company": "Sonyinteractiveentertainmentglobal"
+  },
+  "b620a4cc938e563f8908": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/kayak/senior-machine-learning-ops-engineer-berlin-267492",
+    "title": "Senior Machine Learning Ops Engineer",
+    "company": "KAYAK"
+  },
+  "9711d14e9fc81135b92d": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/black-semiconductor-gmbh/ta-manager-berlin-157375",
+    "title": "TA Manager (f/m/d)",
+    "company": "Black Semiconductor GmbH"
+  },
+  "9469f6ee4c92819d1b49": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/black-semiconductor-gmbh/tax-compliance-intercompany-manager-aachen-175326",
+    "title": "Tax, Compliance & Intercompany Manager (w/m/d)",
+    "company": "Black Semiconductor GmbH"
+  },
+  "467b436908d6b8548cb9": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/black-semiconductor-gmbh/senior-general-ledger-accountant-closing-specialist-de-nl-aachen-207021",
+    "title": "Senior General Ledger Accountant & Closing Specialist (DE/NL) (w/m/d)",
+    "company": "Black Semiconductor GmbH"
+  },
+  "39cf2588102ea1bdeb00": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/black-semiconductor-gmbh/group-accounting-ifrs-lead-aachen-152469",
+    "title": "Group Accounting & IFRS Lead (w/m/d)",
+    "company": "Black Semiconductor GmbH"
+  },
+  "bcfe55cff3ba1db76854": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/roadsurfer/mechanical-assistant-hamburg-432064",
+    "title": "Mechanical Assistant (m/w/d)",
+    "company": "Roadsurfer"
+  },
+  "3a5ebef4c51616dc3d22": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/bunch/head-of-sales-fund-administration-vc-pe-private-markets-berlin-427498",
+    "title": "Head of Sales | Fund Administration | VC & PE | Private Markets (f/m/d)",
+    "company": "bunch"
+  },
+  "fce7ad284744aea69840": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/imk-management-services-gmbh/entwicklungsingenieur-konstruktion-elektronik-medizintechnik-chemnitz-484968",
+    "title": "Entwicklungsingenieur Konstruktion & Elektronik/ Medizintechnik (m/w/d)",
+    "company": "imk Management Services GmbH"
+  },
+  "da328e5ca4b76621e987": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/stortebekker/praktikum-werkstudium-fotografie-frankfurt-am-main-293123",
+    "title": "Praktikum/Werkstudium Fotografie (m/w/d)",
+    "company": "Störtebekker"
+  },
+  "c62b34a59ed2dc3b7956": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/imk-management-services-gmbh/industrial-engineer-chemnitz-460608",
+    "title": "Industrial Engineer (m/w/d)",
+    "company": "imk Management Services GmbH"
+  },
+  "1a9db2d5ab97a696051b": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/hubside-die-recruitingwerkstatt/it-security-consultant-munich-127280",
+    "title": "IT Security Consultant (m/w/d)",
+    "company": "hubside - Die Recruitingwerkstatt"
+  },
+  "5de0a852af4f8f176ba0": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/hubside-die-recruitingwerkstatt/it-service-manager-business-continuity-munich-408464",
+    "title": "IT Service Manager (m/w/d) Business Continuity",
+    "company": "hubside - Die Recruitingwerkstatt"
+  },
+  "9e1f91ce99aeb496a186": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/homie/customer-success-manager-cologne-317642",
+    "title": "Customer Success Manager (m/w/d)",
+    "company": "homie"
+  },
+  "4810158bdb7f3237f2b7": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/mars-holding-gmbh/it-systemadministrator-nurnberg-412180",
+    "title": "IT-Systemadministrator (m/w/d)",
+    "company": "Mars Holding GmbH"
+  },
+  "2e2db679e25989fc9dfe": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/kevin-kehr/remote-werkstudent-finance-beratung-unternehmerisch-leistungsbasiert-hamburg-150172",
+    "title": "Werkstudent (m/w/d) – Finance & Beratung (unternehmerisch, leistungsbasiert)",
+    "company": "Kevin Kehr"
+  },
+  "835d7c7579b481d6af73": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/sonar/technical-product-manager-code-quality-bochum-27450",
+    "title": "Technical Product Manager - Code Quality (f/m/d)",
+    "company": "Sonar"
+  },
+  "a7b1bfcac51101100c0d": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/walkme/director-solution-advisory-munich-364426",
+    "title": "Director, Solution Advisory",
+    "company": "WalkMe"
+  },
+  "0f6bcf7e13f4b89a8cba": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/emma-the-sleep-company/senior-it-system-engineer-frankfurt-9142",
+    "title": "Senior IT System Engineer",
+    "company": "Emma – The Sleep Company"
+  },
+  "23ed45e0e4b666d44630": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/credibur/structured-finance-manager-berlin-129243",
+    "title": "Structured Finance Manager (m/f/d)",
+    "company": "Credibur"
+  },
+  "c4a346e07e6c7ec4cbef": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/netracom-gmbh/callcenter-agent-kundenberater-im-homeoffice-marl-414691",
+    "title": "Callcenter Agent/Kundenberater (m/w/d) im Homeoffice",
+    "company": "netracom GmbH"
+  },
+  "920828939a35277a3916": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/ip-systems-gmbh/wir-suchen-einen-absolventen-netzwerktechnik-junior-network-engineer-ref-13382-cologne-3643",
+    "title": "Wir suchen einen Absolventen Netzwerktechnik / Junior Network Engineer (m/w/d), Ref. 1338.2",
+    "company": "IP Systems GmbH"
+  },
+  "eb9c12f3a09d325d1af2": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/bikeleasing-service-gmbh-co-kg/team-lead-data-products-analytics-gn-berlin-141780",
+    "title": "Team Lead Data Products & Analytics (gn)",
+    "company": "Bikeleasing-Service GmbH & Co. KG"
+  },
+  "faee6b907925111e449e": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/bikeleasing-service-gmbh-co-kg/team-lead-data-products-analytics-gn-berlin-77346",
+    "title": "Team Lead Data Products & Analytics (gn)",
+    "company": "Bikeleasing-Service GmbH & Co. KG"
+  },
+  "24c4973790224278a469": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/flix/data-platform-engineer-berlin-59805",
+    "title": "Data Platform Engineer (m/f/d)",
+    "company": "Flix"
+  },
+  "7ca457b662b42de54527": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/pertemps-erp/sap-is-u-consultant-frankfurt-am-main-102160",
+    "title": "SAP IS-U Consultant",
+    "company": "Pertemps ERP"
+  },
+  "9c22e59a2d38d408a175": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/reif-bauunternehmung-gmbh-co-kg/personalsachbearbeiter-entgeltabrechnung-mitarbeiterbetreuung-rastatt-492475",
+    "title": "Personalsachbearbeiter (m/w/d) Entgeltabrechnung / Mitarbeiterbetreuung",
+    "company": "REIF Bauunternehmung GmbH & Co. KG"
+  },
+  "6d77d79ed9bfcee87006": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/pertemps-erp/sap-sd-beraterin-berlin-121617",
+    "title": "SAP SD Berater:in",
+    "company": "Pertemps ERP"
+  },
+  "f75eb126680532256b60": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/pertemps-erp/sap-fi-co-consultant-hamburg-122961",
+    "title": "SAP FI/CO Consultant",
+    "company": "Pertemps ERP"
+  },
+  "7a990255c054549e9436": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/pertemps-erp/sap-basis-consultant-frankfurt-am-main-434017",
+    "title": "SAP Basis Consultant",
+    "company": "Pertemps ERP"
+  },
+  "971130f69a676ae446f7": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/pertemps-erp/sap-wm-ewm-consultant-aachen-117039",
+    "title": "SAP WM/EWM Consultant",
+    "company": "Pertemps ERP"
+  },
+  "64b085e7681089c6d30f": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/mopla-solutions-gmbh/quality-testing-engineer-augsburg-89709",
+    "title": "Quality Testing Engineer (m/w/d)",
+    "company": "MoPla Solutions GmbH"
+  },
+  "7f14103235af6c0dceb0": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/binderholz/sachbearbeiter-technischer-einkauf-oberrot-158070",
+    "title": "Sachbearbeiter Technischer Einkauf (m/w/d)",
+    "company": "binderholz"
+  },
+  "db7cc92b6e0c47cd91ff": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/leyselect-gmbh/senior-projektleiter-infrastruktur-tiefbau-miwid-karlsruhe-460318",
+    "title": "Senior Projektleiter Infrastruktur & Tiefbau (mIwId)",
+    "company": "LeySelect GmbH"
+  },
+  "828831f4be0bafc389ad": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/cloud-studios/marketing-content-intern-berlin-11247",
+    "title": "Marketing & Content Intern",
+    "company": "Cloud Studios"
+  },
+  "0f67f0a928294c0e25d9": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/team-nais-agency/junior-projektmanagerin-influencer-marketing-social-media-agentur-koln-251910",
+    "title": "(Junior) Projektmanager:in Influencer Marketing (m/w/d) - Social Media Agentur",
+    "company": "Team NaIs Agency"
+  },
+  "4014e0e30d29e48f58d6": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/gridscale-gmbh/site-reliability-engineer-koln-107940",
+    "title": "Site Reliability Engineer (m/f/d)",
+    "company": "gridscale GmbH"
+  },
+  "68a7f55637f0274ce48a": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/valuezon-gmbh/grafikdesigner-mediengestalter-e-commerce-munchen-475986",
+    "title": "Grafikdesigner/ Mediengestalter (m/w/d) E-Commerce",
+    "company": "VALUEZON GmbH"
+  },
+  "658b68db74b449b24ded": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/embedded-linux-software-engineer-maritime-n3xt-gilching-104667",
+    "title": "Embedded Linux Software Engineer (m/f/d) - Maritime N3XT",
+    "company": "Quantum-Systems GmbH"
+  },
+  "6b9c9171d2914b2583f0": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/matchingcompany-powered-by-flexpeople-your-career-network/personaldisponent-gn-vertriebsdisponent-gn-osnabruck-127680",
+    "title": "Personaldisponent (gn) / Vertriebsdisponent (gn)",
+    "company": "MatchingCompany® powered by FlexPeople® - Your Career Network"
+  },
+  "38bce2ca0fb7971d75eb": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/matchingcompany-powered-by-flexpeople-your-career-network/personaldisponent-onsite-manager-gn-gerne-mit-polnisch-oder-rumanischkenntnissen-hamburg-53733",
+    "title": "Personaldisponent / OnSite Manager (gn) - gerne mit Polnisch- oder Rumänischkenntnissen",
+    "company": "MatchingCompany® powered by FlexPeople® - Your Career Network"
+  },
+  "e9dec7b066400146dc1b": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/matchingcompany-powered-by-flexpeople-your-career-network/personaldisponent-gn-vertriebsdisponent-gn-oberhausen-10359",
+    "title": "Personaldisponent (gn) / Vertriebsdisponent (gn)",
+    "company": "MatchingCompany® powered by FlexPeople® - Your Career Network"
+  },
+  "84b9cee0dbc2ee56ac1a": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/matchingcompany-powered-by-flexpeople-your-career-network/recruiter-gn-talent-acquisition-manager-gn-fur-internationale-fachkrafte-aachen-332971",
+    "title": "Recruiter (gn) / Talent Acquisition Manager (gn) für internationale Fachkräfte",
+    "company": "MatchingCompany® powered by FlexPeople® - Your Career Network"
+  },
+  "75a1c4c0848003abea02": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/matchingcompany-powered-by-flexpeople-your-career-network/personaldisponent-gn-vertriebsdisponent-gn-grossbeeren-172147",
+    "title": "Personaldisponent (gn) / Vertriebsdisponent (gn)",
+    "company": "MatchingCompany® powered by FlexPeople® - Your Career Network"
+  },
+  "74e20229c68ee48ef76c": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/matchingcompany-powered-by-flexpeople-your-career-network/personaldisponent-gn-vertriebsdisponent-gn-solingen-241334",
+    "title": "Personaldisponent (gn) / Vertriebsdisponent (gn)",
+    "company": "MatchingCompany® powered by FlexPeople® - Your Career Network"
+  },
+  "ace4e2788d57b07cc33c": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/matchingcompany-powered-by-flexpeople-your-career-network/vertriebsdisponent-gn-personalmanager-gn-im-bereich-medizin-pflege-saarbrucken-408197",
+    "title": "Vertriebsdisponent (gn) / Personalmanager (gn) im Bereich Medizin/ Pflege",
+    "company": "MatchingCompany® powered by FlexPeople® - Your Career Network"
+  },
+  "d55aa5dd345a94bea470": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/matchingcompany-powered-by-flexpeople-your-career-network/niederlassungsleiter-gn-branch-manager-gn-neuss-483792",
+    "title": "Niederlassungsleiter (gn) / Branch Manager (gn)",
+    "company": "MatchingCompany® powered by FlexPeople® - Your Career Network"
+  },
+  "6584ee258ada92f7dcd0": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/matchingcompany-powered-by-flexpeople-your-career-network/implementierungsmanager-gn-projektmanager-gn-frankfurt-am-main-85631",
+    "title": "Implementierungsmanager (gn) / Projektmanager (gn)",
+    "company": "MatchingCompany® powered by FlexPeople® - Your Career Network"
+  },
+  "22ac1faf7b76e5122be0": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/matchingcompany-powered-by-flexpeople-your-career-network/vertriebsdisponent-gn-personalmanager-gn-im-bereich-medizin-pflege-berlin-275608",
+    "title": "Vertriebsdisponent (gn) / Personalmanager (gn) im Bereich Medizin/ Pflege",
+    "company": "MatchingCompany® powered by FlexPeople® - Your Career Network"
+  },
+  "302cfe7e1f144cae2289": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/neowire-gmbh/ai-creative-producer-for-mobile-games-berlin-416602",
+    "title": "AI Creative Producer for Mobile Games",
+    "company": "neowire GmbH"
+  },
+  "8e751527a4fb183a992c": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/cloud-studios/product-designer-intern-berlin-334194",
+    "title": "Product Designer Intern",
+    "company": "Cloud Studios"
+  },
+  "00f5f41c2e92d349ebe3": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/lecturio-gmbh/trust-compliance-manager-datenschutz-it-compliance-berlin-327750",
+    "title": "Trust & Compliance Manager – Datenschutz & IT-Compliance (m/w/d)",
+    "company": "Lecturio GmbH"
+  },
+  "f90bc35fd4d841e33236": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/aurivian-gmbh/shopware-entwickler-fullstack-karlsruhe-68952",
+    "title": "Shopware Entwickler Fullstack (m/w/d)",
+    "company": "Aurivian GmbH"
+  },
+  "b9cfb6737fec42b6890f": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/telus-digital/remote-part-time-media-search-analyst-german-de-berlin-206269",
+    "title": "Remote Part-time Media Search Analyst - German (DE)",
+    "company": "TELUS Digital"
+  },
+  "df7f9f2fec2e2131c212": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/actago-gmbh/senior-sea-manager-landau-an-der-isar-341169",
+    "title": "Senior SEA Manager (m/w/d)",
+    "company": "actago GmbH"
+  },
+  "0192a70da324d8d8adc4": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/actago-gmbh/softwareentwickler-und-systemintegrator-landau-an-der-isar-17028",
+    "title": "Softwareentwickler und Systemintegrator  (m/w/d)",
+    "company": "actago GmbH"
+  },
+  "e39db7ea93e666ffb85b": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/actago-gmbh/senior-performance-demand-generation-manager-landau-an-der-isar-119458",
+    "title": "Senior Performance & Demand Generation Manager (m/w/d)",
+    "company": "actago GmbH"
+  },
+  "1804a23b01f130f28690": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/leyselect-gmbh/it-administrator-mwd-frankfurt-am-main-182569",
+    "title": "IT-Administrator (m|w|d)",
+    "company": "LeySelect GmbH"
+  },
+  "fccf429dfc9c57e14c7f": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/leyselect-gmbh/it-forensiker-analysten-miwid-frankfurt-am-main-490055",
+    "title": "IT-Forensiker / Analysten (mIwId)",
+    "company": "LeySelect GmbH"
+  },
+  "87e538e58a0c1f2b3a25": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/purplan-gmbh/leiter-rechnungswesen-bilanzbuchhalter-wallenhorst-145991",
+    "title": "Leiter Rechnungswesen / Bilanzbuchhalter (m/w/d)",
+    "company": "PURPLAN GmbH"
+  },
+  "2ff7764880cbac9402d0": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/dorma-glas-gmbh/personalsachbearbeiter-personalreferent-bad-salzuflen-95194",
+    "title": "Personalsachbearbeiter / Personalreferent (m/w/d)",
+    "company": "DORMA-Glas GmbH"
+  },
+  "54e573882fc1fba44cb0": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/telus-digital/quality-assurance-rater-german-de-berlin-137274",
+    "title": "Quality Assurance Rater - German (DE)",
+    "company": "TELUS Digital"
+  },
+  "641be73aa11cfed1520c": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/new-flag-gmbh/junior-brand-manager-invisibobble-munich-115982",
+    "title": "Junior Brand Manager invisibobble (m/w/d)",
+    "company": "New Flag GmbH"
+  },
+  "aab43f32ee5e9c4be062": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/actago-gmbh/werkstudent-ki-beratung-landau-an-der-isar-261095",
+    "title": "Werkstudent KI-Beratung (m/w/d)",
+    "company": "actago GmbH"
+  },
+  "3e634409984be07d52dd": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/actago-gmbh/werkstudent-marketing-landau-an-der-isar-6651",
+    "title": "Werkstudent Marketing (m/w/d)",
+    "company": "actago GmbH"
+  },
+  "017b1346773827939828": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://remotive.com/remote-jobs/information-technology/tier-iii-service-desk-engineer-2091045",
+    "title": "Tier III Service Desk Engineer",
+    "company": "Unio Digital"
+  },
+  "f864138b7eaaa5d9339a": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://remotive.com/remote-jobs/sales/sales-jedi-2091088",
+    "title": "Sales Jedi",
+    "company": "Creative Force "
+  },
+  "aa41eadf3d203224360b": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://remotive.com/remote-jobs/customer-service/saas-product-support-jedi-2091087",
+    "title": "SaaS Product Support Jedi",
+    "company": "Creative Force"
+  },
+  "3b96c2b17371a2390a75": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://remotive.com/remote-jobs/writing/freelance-writer-1185979",
+    "title": "Freelance Writer",
+    "company": "IAPWE"
+  },
+  "31e5a76017c2cd9efdd6": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://remotive.com/remote-jobs/writing/freelance-copywriter-1749306",
+    "title": "Freelance Copywriter",
+    "company": "Coalition Technologies "
+  },
+  "4347c9d62e80f89d4026": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://remotive.com/remote-jobs/design/senior-graphic-designer-2091081",
+    "title": "Senior Graphic Designer",
+    "company": "Lemon.io"
+  },
+  "f531ac07e8eb403d55c5": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://remotive.com/remote-jobs/data/data-labeling-specialists-2090903",
+    "title": "Data Labeling Specialists",
+    "company": "Workada"
+  },
+  "4f1f3e93f1c9699054de": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://remotive.com/remote-jobs/sales/business-development-representative-2091075",
+    "title": "Business Development Representative",
+    "company": "Outsite"
+  },
+  "e88a39d70d84bab6a4b6": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://remotive.com/remote-jobs/all-others/content-reviewer-united-states-2091074",
+    "title": "Content Reviewer - United States",
+    "company": "TELUS Digital"
+  },
+  "13b906c28fa4d86a52db": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://remotive.com/remote-jobs/sales/product-sales-specialist-pet-health-cst-timezone-2091072",
+    "title": "Product Sales Specialist - Pet Health (CST timezone)",
+    "company": "Tribe Wellness"
+  },
+  "82e10e911904584585a0": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://remotive.com/remote-jobs/medical/patient-care-specialist-2091069",
+    "title": "Patient Care Specialist",
+    "company": "STATLINX"
+  },
+  "09c0c5db5502abe983e9": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://remotive.com/remote-jobs/software-development/senior-independent-software-developer-1919265",
+    "title": "Senior Independent Software Developer",
+    "company": "A.Team"
+  },
+  "151eac5151a52e5573e9": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://remotive.com/remote-jobs/software-development/senior-independent-ai-engineer-architect-1919266",
+    "title": "Senior Independent AI Engineer / Architect",
+    "company": "A.Team"
+  },
+  "fd57e6d20c713682b34e": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://remotive.com/remote-jobs/marketing/head-of-marketing-communications-2091068",
+    "title": "Head of Marketing & Communications",
+    "company": "garden3d"
+  },
+  "d1310ae177ea326cca99": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746",
+    "title": "Tech Lead Full-Stack Rails Engineer",
+    "company": "Mitre Media"
+  },
+  "3b2be243eb3afc90b277": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://remotive.com/remote-jobs/devops/senior-devops-engineer-2091067",
+    "title": "Senior DevOps Engineer",
+    "company": "Lemon.io"
+  },
+  "380de6ee3a897d5cfacc": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://remotive.com/remote-jobs/software-development/senior-product-engineer-fullstack-2091062",
+    "title": "Senior Product Engineer (Fullstack)",
+    "company": "Clipster"
+  },
+  "f18dabea05ae509e0b2c": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://remotive.com/remote-jobs/medical/assistant-account-payable-2090989",
+    "title": "Assistant Account Payable",
+    "company": "The Obesity Society"
+  },
+  "046afd46e9792f221717": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://remotive.com/remote-jobs/marketing/remote-office-assistant-1680495",
+    "title": "Remote Office Assistant",
+    "company": "Coalition Technologies "
+  },
+  "9b7f569d5af54c7c3f0a": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://remotive.com/remote-jobs/sales/product-sales-specialist-pet-health-2091048",
+    "title": "Product Sales Specialist - Pet Health",
+    "company": "Tribe Wellness"
+  },
+  "eaad988d260ca60283c4": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://remotive.com/remote-jobs/sales/inside-sales-contractor-2086540",
+    "title": "Inside Sales Contractor",
+    "company": "Credit Wellness, LLC"
+  },
+  "080203e50812e5c727d5": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://remotive.com/remote-jobs/sales/high-ticket-financial-sales-specialist-team-lead-track-2090949",
+    "title": "High-Ticket Financial Sales Specialist & Team Lead Track",
+    "company": "FSE LLC"
+  },
+  "a8ef3ba908038ed6e7ff": {
+    "first_seen": "2026-08-09T05:46:54.960027+00:00",
+    "url": "https://remotive.com/remote-jobs/all-others/online-data-analyst-canada-french-language-c-2091047",
+    "title": "Online Data Analyst Canada (French Language) (C)",
+    "company": "TELUS Digital"
+  }
+}
