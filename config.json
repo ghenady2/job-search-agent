@@ -1,0 +1,17 @@
+{
+  "search": {
+    "title_keywords": ["project manager", "program manager", "technical program manager", "technical project manager", "delivery manager", "engineering manager", "head of engineering", "it manager", "ai program manager", "ml program manager", "product operations"],
+    "strong_positive_keywords": ["project management", "program management", "stakeholder management", "delivery", "roadmap", "cross-functional", "agile", "scrum", "risk management", "ai", "machine learning", "ml", "engineering leadership", "technical leadership"],
+    "negative_keywords": ["fluent german", "native german", "german c1", "german c2", "fluent czech", "native czech", "czech c1", "czech c2"],
+    "coding_core_keywords": ["coding interview", "hands-on coding", "write production code", "production coding", "software engineer role", "implement features", "daily coding", "strong coding skills required"],
+    "remote_location_keywords": ["europe", "eu", "emea", "czech", "czechia", "prague", "germany", "austria", "poland", "slovakia", "hungary", "belgium", "netherlands", "france", "uk", "united kingdom", "ireland", "ukraine", "israel", "romania", "bulgaria", "croatia", "slovenia", "estonia", "latvia", "lithuania"],
+    "onsite_location_keywords": ["prague", "praha"],
+    "minimum_score": 25,
+    "max_age_days": 30
+  },
+  "sources": {
+    "arbeitnow": {"enabled": true, "max_pages": 5},
+    "remotive": {"enabled": true}
+  },
+  "output": {"top_n": 100}
+}
