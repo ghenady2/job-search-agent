@@ -4540,5 +4540,737 @@
     "url": "https://www.arbeitnow.co.uk/jobs/companies/elevenlabs/it-engineering-lead-london-144167",
     "title": "IT Engineering Lead",
     "company": "Elevenlabs"
+  },
+  "739b438586ec10e824e5": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/raisin/working-student-frontend-engineer-berlin-berlin-215785",
+    "title": "Working Student Frontend Engineer (m/f/d)",
+    "company": "raisin"
+  },
+  "9403bece4ba3a12d581a": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/trawa/business-analytics-intern-berlin-469587",
+    "title": "Business Analytics Intern",
+    "company": "trawa"
+  },
+  "ebf8176dca5ac65e38da": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/lio/sales-development-representative-all-genders-munich-281057",
+    "title": "Sales Development Representative (all genders)",
+    "company": "Lio"
+  },
+  "c478d9a5968c005c8a8c": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/vrey/junior-energy-data-scientist-energiedaten-automatisierung-msb-berlin-113278",
+    "title": "(Junior) Energy Data Scientist – Energiedaten & Automatisierung (MSB) (m/w/d)",
+    "company": "VREY"
+  },
+  "50f8443d89e0b832a6a9": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/bruggen-engineering-gmbh/production-engineer-sondermaschinenbau-in-stuttgart-1339-403890",
+    "title": "Production Engineer (m/w/d) Sondermaschinenbau in Stuttgart (1339)",
+    "company": "BRÜGGEN ENGINEERING GmbH"
+  },
+  "6aba9849fd82c520184d": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/inside-m2m-gmbh/software-engineer-ai-native-development-garbsen-osnabruck-berlin-179168",
+    "title": "Software Engineer (M/W/D) – AI-Native Development",
+    "company": "INSIDE M2M GmbH"
+  },
+  "04697c45767dbe953d2c": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/heaten-germany-gmbh/qualitatsmanagement-qualitatssicherung-specialist-remscheid-84962",
+    "title": "Qualitätsmanagement & Qualitätssicherung Specialist (m/w/d)",
+    "company": "Heaten Germany GmbH"
+  },
+  "cdb2dbe29d35dfa813c9": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/vivenu/solution-architect-frankfurt-dusseldorf-124018",
+    "title": "Solution Architect (d/f/m)",
+    "company": "Vivenu"
+  },
+  "1ec7cf684a4edbdf9b76": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/vivenu/go-to-market-growth-intern-dusseldorf-178984",
+    "title": "Go-To-Market & Growth Intern (d/f/m)",
+    "company": "Vivenu"
+  },
+  "f96471968be44b68f8cc": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/vivenu/enterprise-account-executive-software-sales-dusseldorf-270481",
+    "title": "Enterprise Account Executive (d/f/m) - Software Sales",
+    "company": "Vivenu"
+  },
+  "22f3166e4893e2adf73b": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/vivenu/remote-engineering-lead-payments-15821",
+    "title": "Engineering Lead - Payments (d/f/m)",
+    "company": "Vivenu"
+  },
+  "f48ef3e5f902519de9d6": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/vivenu/remote-data-engineering-lead-agentic-infrastructure-320633",
+    "title": "Data Engineering Lead, Agentic Infrastructure",
+    "company": "Vivenu"
+  },
+  "4ded00d67ec7f970ea09": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/kalo-vor-ort/teamleiterin-technik-und-montage-region-sud-stuttgart-404550",
+    "title": "Teamleiter:in Technik und Montage – Region Süd (w/m/d)",
+    "company": "Kalo Vor Ort"
+  },
+  "9d290fb85ab9059d8f34": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/bloomwell-group-gmbh/senior-flutter-developer-office-frankfurt-489577",
+    "title": "Senior Flutter Developer (m/f/d)*",
+    "company": "Bloomwell Group GmbH"
+  },
+  "8ff6be2fcd024e80136c": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/bloomwell-group-gmbh/marketing-pflichtpraktikant-werkstudent-office-frankfurt-285116",
+    "title": "Marketing Pflichtpraktikant / Werkstudent (m/w/d)",
+    "company": "Bloomwell Group GmbH"
+  },
+  "a181d93044aee961022e": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/bitcap/senior-legal-counsel-berlin-hq-487354",
+    "title": "Senior Legal Counsel (m/w/d)",
+    "company": "Bitcap"
+  },
+  "22884a44f762d10d7f58": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/bitcap/praktikant-legal-contract-management-berlin-hq-289971",
+    "title": "Praktikant Legal / Contract Management (m/w/d)",
+    "company": "Bitcap"
+  },
+  "7e977addcb17cb09469a": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/emnify/senior-software-engineer-smartcard-development-berlin-410224",
+    "title": "Senior Software Engineer (SmartCard Development)",
+    "company": "emnify"
+  },
+  "0caf22fa61d1de353be6": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/emnify/senior-platform-engineer-kafka-berlin-186460",
+    "title": "Senior Platform Engineer - Kafka (d/f/m)",
+    "company": "emnify"
+  },
+  "730d69de210fceaf3b9a": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/mercura/design-engineer-munich-421938",
+    "title": "Design Engineer",
+    "company": "Mercura"
+  },
+  "49b4ce37759a7b5aba91": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/cara-care/praktikantin-marketing-patient-experience-berlin-495785",
+    "title": "Praktikant:in Marketing & Patient Experience (m/w/d)",
+    "company": "Cara Care"
+  },
+  "913449fc8b333139047b": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/education-partners/senior-marketing-manager-munchen-484293",
+    "title": "Senior Marketing Manager (m/w/d)",
+    "company": "Education Partners"
+  },
+  "a5fcb9958b8b8f1353a9": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/maxsolar/senior-project-engineer-technische-projektplanung-pv-bess-utility-scale-munchen-hamburg-traunstein-berlin-frankfurt-110104",
+    "title": "(Senior) Project Engineer - Technische Projektplanung (m/w/d) – PV & BESS Utility Scale",
+    "company": "Maxsolar"
+  },
+  "1605d1674fcd95e5cf4d": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/maxsolar/senior-consultant-microsoft-dynamics-365-fo-traunstein-munchen-315687",
+    "title": "(Senior) Consultant Microsoft Dynamics 365 F&O (m/w/d)",
+    "company": "Maxsolar"
+  },
+  "e9cf63dc761dc188ac95": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/dieseo-gmbh/senior-performance-marketing-manager-paid-social-meta-ads-hamburg-133778",
+    "title": "(Senior) Performance Marketing Manager – Paid Social / Meta Ads (m/w/d)",
+    "company": "Dieseo Gmbh"
+  },
+  "a5854cf897e73661df31": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/dataciders/it-consultant-public-sector-intrexx-berlin-356194",
+    "title": "IT Consultant (m/w/d) Public Sector (Intrexx)",
+    "company": "Dataciders"
+  },
+  "b313f8ac1754bf228a61": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/airbnb/senior-market-manager-luxe-225454",
+    "title": "Senior Market Manager, Luxe",
+    "company": "Airbnb"
+  },
+  "c26830661be8ad0c50da": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/nebius/senior-software-engineer-managed-postgresql-193298",
+    "title": "Senior Software Engineer (Managed PostgreSQL)",
+    "company": "Nebius"
+  },
+  "200d4ca50ec6c53e11bd": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/nebius/senior-software-engineer-agentic-search-web-rendering-engineer-481417",
+    "title": "Senior Software Engineer (Agentic Search) – Web Rendering Engineer",
+    "company": "Nebius"
+  },
+  "4d20207c6558fa2d2de5": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/nebius/senior-software-engineer-agentic-search-web-access-engineer-455352",
+    "title": "Senior Software Engineer (Agentic Search) - Web Access Engineer",
+    "company": "Nebius"
+  },
+  "f6549cb34fc9f7fb6f07": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/nebius/senior-site-reliability-engineer-sre-berlin-492842",
+    "title": "Senior Site Reliability Engineer (SRE)",
+    "company": "Nebius"
+  },
+  "e0e18ec479cc5eb93dc0": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/nebius/senior-site-reliability-engineer-devtools-44177",
+    "title": "Senior Site Reliability Engineer (DevTools)",
+    "company": "Nebius"
+  },
+  "0ea0dcc417e0238b9bfe": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/nebius/senior-hpc-engineer-gpu-compute-berlin-199223",
+    "title": "Senior HPC Engineer, GPU Compute",
+    "company": "Nebius"
+  },
+  "d3a7a656ae64c9802f34": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/nebius/ai-ml-specialist-solutions-architect-97250",
+    "title": "AI/ML Specialist Solutions Architect",
+    "company": "Nebius"
+  },
+  "65e97cef02aa04ceb999": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/nebius/ai-full-stack-developer-236134",
+    "title": "AI Full-Stack Developer",
+    "company": "Nebius"
+  },
+  "b4945748167ac52ccf0b": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/cribl/senior-solutions-engineer-germany-279967",
+    "title": "Senior Solutions Engineer, Germany",
+    "company": "Cribl"
+  },
+  "c18278c95e28aa0503b1": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/tenableinc/remote-senior-security-consultant-328302",
+    "title": "Senior Security Consultant",
+    "company": "Tenableinc"
+  },
+  "0ca0b9e1b690cce7a944": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/ethereum-foundation/protocol-security-researcher-berlin-292631",
+    "title": "Protocol Security Researcher",
+    "company": "Ethereum Foundation"
+  },
+  "6a1ddf361990defab8a4": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/docuware/director-process-management-germering-germany-364094",
+    "title": "Director Process Management (m/w/d)",
+    "company": "DocuWare"
+  },
+  "452405a879cdf4a3025a": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/jobs-personio/remote-senior-product-manager-platform-experiences-38975",
+    "title": "Senior Product Manager — Platform Experiences",
+    "company": "jobs - Personio"
+  },
+  "1f4c37a464a5efa6757d": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/myty/werkstudent-project-artist-management-moongency-hamburg-326770",
+    "title": "Werkstudent Project & Artist Management (m/w/d)",
+    "company": "Myty"
+  },
+  "a682940e6d3109ac3510": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/baqend/senior-customer-success-manager-alle-geschlechter-hamburg-320032",
+    "title": "(Senior) Customer Success Manager (alle Geschlechter)",
+    "company": "Baqend"
+  },
+  "7d112c6081c6dd28c3bf": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/ororatech-gmbh/chief-of-staff-munich-314795",
+    "title": "Chief of Staff (m/f/d)",
+    "company": "OroraTech GmbH"
+  },
+  "a7671689f6008f3b0a13": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/squer/lead-engineer-applied-ai-data-products-munchen-296872",
+    "title": "Lead Engineer - Applied AI & Data Products",
+    "company": "Squer"
+  },
+  "1d8a4c44432d8c0aad0a": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/squer/lead-data-engineer-data-migration-lakehouse-munchen-495833",
+    "title": "Lead Data Engineer - Data Migration & Lakehouse",
+    "company": "Squer"
+  },
+  "42a3a7f245495d6f4181": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/datadog/remote-staff-software-engineer-security-agent-182551",
+    "title": "Staff Software Engineer - Security Agent",
+    "company": "Datadog"
+  },
+  "a7094ad5064e744100a2": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/datadog/remote-senior-ai-engineer-notebooks-104660",
+    "title": "Senior AI Engineer – Notebooks",
+    "company": "Datadog"
+  },
+  "676a367be2b142a18f0f": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/wrike/group-product-manager-klaxoon-167773",
+    "title": "Group Product Manager [Klaxoon]",
+    "company": "Wrike"
+  },
+  "9f80e8ed5fe1acd8fd7b": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/elastic/customer-architect-430981",
+    "title": "Customer Architect",
+    "company": "Elastic"
+  },
+  "90886991d537dd76a656": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/tacto/senior-account-manager-munich-141635",
+    "title": "(Senior) Account Manager",
+    "company": "Tacto"
+  },
+  "31690f8354e6bd1ad15a": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/datads/onboarding-customer-success-manager-mit-paid-social-media-marketing-erfahrung-remote-cologne-172885",
+    "title": "Onboarding & Customer Support Manager mit Paid / Social Media Marketing Erfahrung (w/m/d) remote",
+    "company": "DatAds"
+  },
+  "faa3fc0942ffeb4bb9e4": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/madethought/senior-account-manager-london-470251",
+    "title": "Senior Account Manager",
+    "company": "Madethought"
+  },
+  "91356737d17a78e0594e": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/andurilindustries/technical-recruiter-sydney-sydney-australia-204731",
+    "title": "Technical Recruiter, Sydney",
+    "company": "Andurilindustries"
+  },
+  "d75437e33663b68d68d7": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/andurilindustries/staff-software-engineer-sydney-australia-370064",
+    "title": "Staff Software Engineer",
+    "company": "Andurilindustries"
+  },
+  "7809705413884644d136": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/andurilindustries/staff-platform-engineer-staff-site-reliability-engineer-sydney-australia-315619",
+    "title": "Staff Platform Engineer / Staff Site Reliability Engineer",
+    "company": "Andurilindustries"
+  },
+  "294e85a9c8c74a5771c0": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/andurilindustries/software-engineer-sydney-australia-322070",
+    "title": "Software Engineer",
+    "company": "Andurilindustries"
+  },
+  "74ee73f2bd2531a4bebf": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/andurilindustries/senior-systems-engineer-sydney-australia-461720",
+    "title": "Senior Systems Engineer",
+    "company": "Andurilindustries"
+  },
+  "030189e883e5be78e553": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/andurilindustries/senior-software-engineer-site-reliability-sydney-australia-33258",
+    "title": "Senior Software Engineer, Site Reliability",
+    "company": "Andurilindustries"
+  },
+  "5efc3a75c9f316bf3187": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/andurilindustries/senior-software-engineer-flight-software-sydney-australia-272592",
+    "title": "Senior Software Engineer (Flight Software)",
+    "company": "Andurilindustries"
+  },
+  "5e71fe0930b8568e9578": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/andurilindustries/senior-software-engineer-sydney-australia-55037",
+    "title": "Senior Software Engineer",
+    "company": "Andurilindustries"
+  },
+  "cda7d8ae1a930139c75f": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/andurilindustries/senior-site-reliability-engineer-sydney-australia-497305",
+    "title": "Senior Site Reliability Engineer",
+    "company": "Andurilindustries"
+  },
+  "9c6152314cda773fc965": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/andurilindustries/senior-robotics-software-engineer-payload-integration-sydney-australia-71021",
+    "title": "Senior Robotics Software Engineer, Payload Integration",
+    "company": "Andurilindustries"
+  },
+  "a3557759515bb936377f": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/andurilindustries/senior-robotics-engineer-sydney-australia-359112",
+    "title": "Senior Robotics Engineer",
+    "company": "Andurilindustries"
+  },
+  "f6fac8936bece714aa70": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/andurilindustries/senior-reliability-engineering-sydney-australia-169781",
+    "title": "Senior Reliability Engineering",
+    "company": "Andurilindustries"
+  },
+  "59a30f8922176f3bd789": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/andurilindustries/senior-platform-engineer-senior-devops-engineer-senior-infrastructure-engineer-senior-site-reliability-engineer-sydney-australia-473787",
+    "title": "Senior Platform Engineer / Senior DevOps Engineer / Senior Infrastructure Engineer / Senior Site Reliability Engineer",
+    "company": "Andurilindustries"
+  },
+  "a104bdc41b11649d6772": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/andurilindustries/senior-manager-software-engineering-sydney-australia-460044",
+    "title": "Senior Manager, Software Engineering",
+    "company": "Andurilindustries"
+  },
+  "4c3266fb76da7aa8da1d": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/andurilindustries/senior-machine-learning-engineer-sydney-australia-227090",
+    "title": "Senior Machine Learning Engineer",
+    "company": "Andurilindustries"
+  },
+  "134495201c6c6c42e827": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/andurilindustries/senior-logistics-coordinator-sydney-australia-399674",
+    "title": "Senior Logistics Coordinator",
+    "company": "Andurilindustries"
+  },
+  "ad9ca40ed590d82863f4": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/andurilindustries/senior-integration-and-test-engineer-software-sydney-australia-32413",
+    "title": "Senior Integration and Test Engineer (Software)",
+    "company": "Andurilindustries"
+  },
+  "87a85bf6ea379366177d": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/andurilindustries/senior-electrical-engineer-sydney-australia-312249",
+    "title": "Senior Electrical Engineer",
+    "company": "Andurilindustries"
+  },
+  "2591f1d011ad1372c37d": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/andurilindustries/senior-cost-accountant-sydney-australia-3326",
+    "title": "Senior Cost Accountant",
+    "company": "Andurilindustries"
+  },
+  "0472d0126c1e3714c55e": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/andurilindustries/program-chief-engineer-sydney-australia-49157",
+    "title": "Program Chief Engineer",
+    "company": "Andurilindustries"
+  },
+  "10dbcb2f0f4bd63c42b7": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/andurilindustries/platform-engineer-devops-engineer-infrastructure-engineer-site-reliability-engineer-sydney-australia-317866",
+    "title": "Platform Engineer / DevOps Engineer / Infrastructure Engineer / Site Reliability Engineer",
+    "company": "Andurilindustries"
+  },
+  "1007d8ba51ca7b63a0c1": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/andurilindustries/manufacturing-test-automation-engineer-sydney-australia-177220",
+    "title": "Manufacturing Test Automation Engineer",
+    "company": "Andurilindustries"
+  },
+  "ddfdbd1316e98a548d3d": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/andurilindustries/manager-software-engineering-sydney-australia-145210",
+    "title": "Manager, Software Engineering",
+    "company": "Andurilindustries"
+  },
+  "16b62c0499509907e7a9": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/andurilindustries/flight-test-engineering-lead-sydney-australia-255045",
+    "title": "Flight Test Engineering Lead",
+    "company": "Andurilindustries"
+  },
+  "e3a4e3166a8f4abe4a0e": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/andurilindustries/director-xl-support-systems-sydney-australia-494782",
+    "title": "Director, XL Support Systems",
+    "company": "Andurilindustries"
+  },
+  "f741d5b1793ad223a76d": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/andurilindustries/director-business-development-sydney-australia-10132",
+    "title": "Director, Business Development",
+    "company": "Andurilindustries"
+  },
+  "218b53c30df6cbac6220": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/coreweaveu/staff-software-engineer-network-development-warsaw-poland-london-ireland-285665",
+    "title": "Staff Software Engineer — Network Development",
+    "company": "Coreweaveu"
+  },
+  "bcbc076046b430f962ea": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/coreweaveu/senior-software-engineer-network-development-warsaw-poland-london-ireland-486608",
+    "title": "Senior Software Engineer, Network Development",
+    "company": "Coreweaveu"
+  },
+  "68ee8e5bb1bc70811545": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/coreweaveu/senior-engineer-network-observability-london-380460",
+    "title": "Senior Engineer, Network Observability",
+    "company": "Coreweaveu"
+  },
+  "34eadb0e7d1e6e7a2442": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/relay/senior-business-development-executive-london-223295",
+    "title": "Senior Business Development Executive",
+    "company": "Relay"
+  },
+  "6fdb7c71c0cace8dbb58": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/relay/senior-software-engineer-london-240846",
+    "title": "Senior Software Engineer",
+    "company": "Relay"
+  },
+  "4df5de43a430f8180971": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/stan/remote-client-director-283432",
+    "title": "Client Director",
+    "company": "STAN"
+  },
+  "0042d5cb3363b21b98c4": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/wundermanthompson/senior-designer-sydney-australia-367264",
+    "title": "Senior Designer",
+    "company": "Wundermanthompson"
+  },
+  "32e0636873d21496c60b": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/physicsx/senior-technical-programme-manager-london-442434",
+    "title": "Senior Technical Programme Manager",
+    "company": "Physicsx"
+  },
+  "a1bc93b802221b172eac": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/physicsx/senior-simulation-data-engineer-london-262149",
+    "title": "Senior Simulation Data Engineer",
+    "company": "Physicsx"
+  },
+  "4146795742e366e213c9": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/physicsx/senior-machine-learning-software-engineer-research-london-388806",
+    "title": "Senior Machine Learning Software Engineer, Research",
+    "company": "Physicsx"
+  },
+  "586a1e01996b2573fb4d": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/physicsx/senior-machine-learning-engineer-london-18841",
+    "title": "Senior Machine Learning Engineer",
+    "company": "Physicsx"
+  },
+  "800df4775e59a026ea66": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/physicsx/senior-financial-accountant-london-191091",
+    "title": "Senior Financial Accountant",
+    "company": "Physicsx"
+  },
+  "a1fee415832594c67e37": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/physicsx/senior-cfd-engineer-plasma-specialist-london-471389",
+    "title": "Senior CFD Engineer - Plasma Specialist",
+    "company": "Physicsx"
+  },
+  "3b3f4bbe479389551687": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/physicsx/principal-machine-learning-infrastructure-engineer-london-401539",
+    "title": "Principal Machine Learning Infrastructure Engineer",
+    "company": "Physicsx"
+  },
+  "70e6a5ebe6da00b73f32": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/physicsx/principal-data-scientist-london-328815",
+    "title": "Principal Data Scientist",
+    "company": "Physicsx"
+  },
+  "349ee15658a33320d45d": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/physicsx/machine-learning-software-engineer-research-london-181340",
+    "title": "Machine Learning Software Engineer, Research",
+    "company": "Physicsx"
+  },
+  "58a79dbb88d3b154d56c": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/physicsx/data-scientist-london-133809",
+    "title": "Data Scientist",
+    "company": "Physicsx"
+  },
+  "732d3d904b51bff6b617": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-forward-deployed-engineer-emea-395716",
+    "title": "Forward Deployed Engineer - EMEA",
+    "company": "gitlab"
+  },
+  "3edfd2638a2f6541a3df": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-forward-deployed-engineer-emea-384485",
+    "title": "Forward Deployed Engineer - EMEA",
+    "company": "gitlab"
+  },
+  "9d35ebb33d3b04b9133e": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/zyngacareers/senior-localization-producer-london-or-spain-based-93975",
+    "title": "Senior Localization Producer - London or Spain Based",
+    "company": "Zyngacareers"
+  },
+  "cd537033eca181ad3755": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/zyngacareers/director-of-product-london-447760",
+    "title": "Director of Product",
+    "company": "Zyngacareers"
+  },
+  "e2d2515aca724f1f023d": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/zyngacareers/aso-partnerships-director-london-383875",
+    "title": "ASO & Partnerships Director",
+    "company": "Zyngacareers"
+  },
+  "69e9f072ff5e651f930c": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/dotmatics/senior-application-scientist-virscidian-423742",
+    "title": "Senior Application Scientist | Virscidian",
+    "company": "Dotmatics"
+  },
+  "88e7ec6404e8ceca5b6a": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/parloa/manager-forward-deployed-engineering-279284",
+    "title": "Manager, Forward Deployed Engineering",
+    "company": "Parloa"
+  },
+  "87187dbc6a16de1ccdfa": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/riverlane/software-tech-lead-cambridge-362889",
+    "title": "Software Tech Lead",
+    "company": "Riverlane"
+  },
+  "c18533c38c7f85901514": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/riverlane/software-engineer-open-source-cambridge-73926",
+    "title": "Software Engineer - Open Source",
+    "company": "Riverlane"
+  },
+  "87d37282fe705014e0c5": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/riverlane/senior-staff-research-software-engineer-cambridge-133836",
+    "title": "Senior/Staff Research Software Engineer",
+    "company": "Riverlane"
+  },
+  "4de7bfd726066da983c7": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/riverlane/senior-software-engineer-open-source-cambridge-93710",
+    "title": "Senior Software Engineer - Open Source",
+    "company": "Riverlane"
+  },
+  "6e299892da2f485ae65a": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/riverlane/senior-product-manager-software-cambridge-380272",
+    "title": "Senior Product Manager - Software",
+    "company": "Riverlane"
+  },
+  "85583073ff69ed67b7b7": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/riverlane/senior-fpga-engineer-systems-team-cambridge-329576",
+    "title": "Senior FPGA Engineer - Systems Team",
+    "company": "Riverlane"
+  },
+  "726ade3155971a51738d": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/riverlane/research-software-engineer-cambridge-113024",
+    "title": "Research Software Engineer",
+    "company": "Riverlane"
+  },
+  "16df95124ccb03b5275b": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/riverlane/integration-software-engineer-cambridge-160023",
+    "title": "Integration Software Engineer",
+    "company": "Riverlane"
+  },
+  "9b3074123fff47af8d2f": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/fanaticsfbg/staff-product-designer-internal-tools-leeds-london-288006",
+    "title": "Staff Product Designer, Internal Tools",
+    "company": "Fanaticsfbg"
+  },
+  "141ab336503328daa9b1": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/fanaticsfbg/staff-platform-engineer-infrastructure-core-uk-ireland-leeds-london-420219",
+    "title": "Staff Platform Engineer, Infrastructure - Core UK & Ireland",
+    "company": "Fanaticsfbg"
+  },
+  "ffb598f44a719c6bf59a": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/ripple/staff-infrastructure-engineer-sydney-australia-250414",
+    "title": "Staff Infrastructure Engineer",
+    "company": "Ripple"
+  },
+  "d94981de6ea8a8c0aff1": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/ripple/director-global-sdr-operations-london-180325",
+    "title": "Director, Global SDR Operations",
+    "company": "Ripple"
+  },
+  "940fdc59bf338e060308": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/soficonv/senior-software-engineer-macquarie-park-australia-55321",
+    "title": "Senior Software Engineer",
+    "company": "soficonv"
+  },
+  "53145e591c60848b7b06": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/kaluza/product-manager-data-fluent-french-english-bristol-london-496588",
+    "title": "Product Manager (Data) - Fluent French & English",
+    "company": "Kaluza"
+  },
+  "7911c7e6995fd4c8f0b8": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/affirm/small-business-account-executive-i-341230",
+    "title": "Small Business Account Executive I",
+    "company": "Affirm"
+  },
+  "dc7319876f712898f9a3": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/heliosx/senior-compounding-pharmacist-royal-leamington-spa-486751",
+    "title": "Senior Compounding Pharmacist",
+    "company": "heliosx"
+  },
+  "11b396bf2db66db0e563": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/wpp-production/senior-editor-london-376789",
+    "title": "Senior Editor",
+    "company": "WPP Production"
+  },
+  "b6ac0f49b0919b62d0cb": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/runden-group-gmbh-co-kg/remote-werkstudent-erp-entwicklung-231904",
+    "title": "Werkstudent (m/w/d) ERP-Entwicklung",
+    "company": "Runden Group GmbH & Co. KG"
+  },
+  "e0928df7ea12632bb4c2": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/vamo/remote-werkstudent-sales-142828",
+    "title": "Werkstudent (m/w/d) Sales",
+    "company": "Vamo"
+  },
+  "dc3e91e6cf253810d4ab": {
+    "first_seen": "2026-08-10T06:41:35.529674+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/june-gmbh/remote-ai-native-software-entwickler-394488",
+    "title": "AI-Native Software Entwickler (m/w/d)",
+    "company": "JUNE GmbH"
   }
 }
